@@ -1,0 +1,1392 @@
+#_,_
+button.back,Geri
+settings.gameplay.title,Oynanış
+settings.video.resolution,Çözünürlük
+tutorial.advanced.separator,Gelişmiş Öğreticiler
+button.newtag,YENİ
+gameoptions.timer.slow,Eşzamanlı
+gameoptions.timer.fast,Canlı
+multiplayer.globalchat,Genel sohbet
+button.account,Hesap
+login.title.change.user,Kullanıcı değiştir
+changepassword.title,Şifre değiştir
+login.logoutbutton,Çıkış Yap
+friends.removefreind,Arkadaşlıktan Kaldır
+friends.addfriend,Arkadaş Ekle
+friends.invitefriends.button,Arkadaşını davet et
+friends.invitefriends.send,Göndermek
+singleplayer.header.label,Challenges
+button.no,Hayır
+button.yes,Evet
+prompt.continuesaved.desc,Kayıtlı bir oyunun var. Bu oyuna devam etmek veya yeni bir oyun başlatmak ister misiniz?
+prompt.continuesaved.title,Oyuna Devam Et
+prompt.continuesaved.buttonnewgame,Yeni oyun
+button.continue,Devam et
+login.title.create.account,Hesap oluştur
+login.email,Email
+createaccount.screenname,Kullanıcı Adı
+login.password,Şifre
+createaccount.reenterpassword,Şifreyi yeniden gir
+button.cancel,İptal
+button.close,Kapat
+direbytes.header,Dire Wolf Haberleri
+direbytes.none,Direwolf Haber Yok
+direbytes.link,Link
+direbytes.store,Mağaza
+button.commit,İşlemek
+button.submit,Göndermek
+settings.feedback,Geri bildirim
+settings.feedback.email.placeholder,Email
+settings.feedback.placeholder,Sorunu buraya girin. Lütfen uygulanabilir olduğunda oyun modunuzu ekleyin.
+settings.feedback.send,Göndermek
+settings.feedback.sendlogs,Log gönder
+login.forgotpassword,Parolanızı mı unuttunuz
+login.forgotpassword.reset,Sıfırla
+friends.title,Arkadaşlar
+playonline.optionheader.password,Şifre
+savedgames.joingame,Oyuna katıl
+button.ok,Tamam
+button.tutorial,Öğretici
+mainmenu.localplay,Tek Oyunculu oyna
+mainmenu.onlineplay,Çevrimiçi Oyna
+button.shop,Mağaza
+button.quit,Oyundan çık
+mainmenu.leaderboards,Leaderboards
+leaderboards.friendsonly,Sadece arkadaşlar
+prompt.leaderboard.score.label,Puan
+prompt.leaderboard.rank.label,Sıralama
+prompt.leaderboard.name.label,İsim
+login.title.log.in,Giriş yap
+settings.login,Giriş yap
+login.create.account,Hesap oluştur
+changepassword.oldpassword,Eski Şifre
+changepassword.newpassword,Yeni Şifre
+multiplayer.gotogame,Oyna
+multiplayer.playonline,Çevrimiçi Oyna
+multiplayer.showpasswordgames,Şifreli Oyunlarını Göster
+multiplayer.activetab,Aktif
+lobby.nogames.label,Oyun yok
+multiplayer.browsertab,Tarayıcı
+multiplayer.columntimer,Zamanlayıcı
+multiplayer.columnname,İsim
+multiplayer.columnbanned,Engellenmiş
+multiplayer.columnplayers,Oyuncular
+gameoptions.creategame,Oyun oluştur
+gameoptions.startgame,Oyunu başlat
+gameoptions.joingame,Oyuna katıl
+button.rules,Kurallar
+settings.gen.title,Genel
+settings.video.title,Video
+settings.audio.title,Ses
+settings.pc.windowed,Pencere Modu
+settings.pc.vsync,Dikey Senkronizasyon
+settings.video.quality,Kalite
+settings.audio.musicvolume,Müzik sesi
+settings.audio.effectsvolume,Efekt sesi
+settings.languages,Diller
+settings.eula,Eula
+solooptions.singleplayer,Challenges
+solooptions.play,Tek Oyunculu Oyun
+multiplayer.passandplay,Geç ve Oynat
+appirater.header,Uygulamayı oyla
+appirater.body,Oyundan zevk alıyor musunuz? Lütfen bir dakikanızı ayırın.
+appirater.ratebutton,Uygulamayı oyla
+appirater.remindbutton,Bana daha sonra hatırlat
+appirater.rejectbutton,Hayır teşekkürler
+playonline.confirmresign,Bu oyundan çekilmek istediğinize emin misiniz?
+settings.pc.confirmation.body,Bu ekran ayarlarını saklamak ister misiniz? {0} saniyelerde önceki ayarlara geri dönme.
+friends.category.invites,Davetler
+friends.category.online,Çevrimiçi
+friends.category.offline,Çevrimdışı
+friends.category.count.label,({0})
+store.restorepurchaseserror.default,
+dialogmessages.resetpassword.info,Daha ayrıntılı talimatlar için e-posta kontrol edin.
+lobby.timerdisplay.hoursformat,{0} h
+lobby.timerdisplay.minsformat,{0} m
+lobby.timerdisplay.daysformat,{0} d
+playonline.cpuplayer.label,AI
+playonline.waitingplayer.label,<Color =#858585>Oyuncu Bekleniyor</or Color>
+playonline.joinedplayer.label,<Color =#ffff00>{0}</color>
+playonline.availablegames.game,{0} 'ın Oyunu
+waitingforplayers.timer.label,Tur Süre Sınırı: {0}
+waitingforplayers.aidifficulty.label,AI Zorluk: {0}
+gameoptions.aidifficultyeasy,Kolay
+gameoptions.aidifficultymedium,Orta
+gameoptions.aidifficultyhard,Zor
+waitingforplayers.invalideplayerstate,Bir hata oluştu. Lütfen tekrar deneyin.
+dialogmessages.lobbyended.message,Görüntülediğiniz lobi artık mevcut değil.
+playsolo.match.startfailure,Oyun yükleyenemedi.
+prompts.gameresults.title,Oyun sonu
+dialogmessages.feedback.success,Geri bildirim için teşekkürler.
+prompttitles.generic.success,Başarılı
+singleplayer.difficulty.label,Zorluk: {0}
+singleplayer.difficulty.easy,Normal
+singleplayer.difficulty.medium,Kahramanca
+singleplayer.difficulty.hard,
+quitapplication.confirm.message,Çıkmak istediğinden emin misin?
+login.loggedinas,Oturum açıldı: {0}
+friends.invitationsent,Davet gönderildi!
+friends.areyousure,Emin misin?
+dialogmessages.invitefriend.success,Davet gönderildi!
+login.error.invalidemail,Hata: Geçersiz e -posta
+login.error.invalidusername,Hata: Geçersiz Kullanıcı Adı
+login.error.invalidpassword,Hata: Parola en az 6 karakter olmalı ve hem harfler hem de sayılar içermelidir.
+login.error.passwordmismatch,Hata: Parolalar eşleşmiyor
+prompts.loginfailure.nocredentials,
+prompts.loginfailure.eulanotaccepted,Lütfen giriş yapmak için EULA'yı kabul edin.
+dialogmessages.login.errors.upgradeclient,"Oturum açılamıyor, lütfen müşterinizin güncel olduğundan emin olun"
+dialogmessages.login.errors.couldnotconnect,"Yetkilendirme sunucusuna bağlanamadım, lütfen daha sonra tekrar deneyin."
+dialogmessages.login.errors.gatewaydown,Gateway'e bağlanamadı.
+dialogmessages.login.errors.ipbanned,Bu IP'den bağlanamadı.
+dialogmessages.login.errors.maintenance,"Bağlanamadı, sunucu bakım içindedir."
+dialogmessages.login.errors.serverfull,"Bağlanamadı, sunucular şu anda dolu."
+network.checkconnection,Ağ bağlantınızı kontrol edin.
+dialogmessages.login.errors.default,Şu anda giriş yapamadı.
+dialogmessages.registration.thanksnewaccount,Kayıt olduğunuz için teşekkürler!
+dialogmessages.registration.toomanyrequests,"Çok fazla istek, lütfen 15 dakika içinde tekrar deneyin."
+dialogmessages.registration.authunavailable,"Yetkilendirme sunucusuna bağlanamadım, lütfen daha sonra tekrar deneyin."
+dialogmessages.registration.failure,Hesap oluşturulamadı:
+{0},
+code.redeem.equip.immediate,
+dialogmessages.continuegame.playeractivationfailure,
+match.start.failure,Oyun yüklenemedi
+multiplayer.matchremoved,Bu oyun artık mevcut değil.
+multiplayer.matchresigned.2,{0} ile oyundan çekildiniz.
+multiplayer.matchresigned.3,{0} ve {1} ile oyundan çekildiniz.
+multiplayer.matchresigned.4,"{0}, {1} ve {2} ile oyundan çekildiniz."
+multiplayer.matchresigned.5,"{0}, {1}, {2} ve {3} ile oyundan çekildiniz."
+multiplayer.matchresigned.6,"{0}, {1}, {2}, {3} ve {4} ile oyundan çekildiniz."
+dialogmessages.resignfromgame.failure,Oyundan çekilme işlemi başarılı değil. Ağ bağlantınızı kontrol edin.
+rankedselect.errors.connectfailed,Bağlantınız zaman aşımına uğradı. Lütfen internet bağlantınızı kontrol edin ve tekrar deneyin.
+dialogmessages.feedback.timeout,Geri bildiriminizi gönderimde bir hata vardı.
+dialogmessages.leaderboard.failure,Şu anda Scoreboard yüklenemedi.
+dialogmessages.addfriend.accountnotfound,Arkadaş Davetiyesi Gönderme Hatası: Hesap bulunamadı.
+dialogmessages.addfriend.invitefailure,Arkadaş davetiyesi gönderme hatası.
+dialogmessages.acceptfriend.failure,Arkadaş davetini kabul etme hatası.
+dialogmessages.cancelfriendrequest.failure,Arkadaşlık isteğini iptal etme hatası.
+dialogmessages.removefriend.failure,Arkadaşı kaldırma hatası.
+dialogmessages.invitefriend.failure,"Davet gönderilemedi, lütfen daha sonra tekrar deneyin."
+disconnect.timeout,Bağlantı zaman aşımına uğradı
+disconnect.idletimeout,Hareketsizlik nedeniyle bağlantınız kesildi. 3 tur boyunca bağlanamayan oyuncu kaldırılacak ve bir AI ile değiştirilecektir.
+dialogmessages.changepassword.success,Şifreniz başarıyla değiştirdi.
+dialogmessages.passwordpolicy,"Şifreniz en az 6 karakter olmalı, büyük harfle yazılmış  olmalı ve hem harf hem de sayılar içermelidir."
+dialogmessages.login.errors.invalidlogin,Geçersiz e-posta veya şifre.
+dialogmessages.continuegame.failure,Oyuna bağlanılamadı. Hata: {0}
+disconnect.defaultreason,Sunucu bağlantısına ulaşılamadı
+challenges.startgame,Oyuna başla
+addfriend.addplayername,Oyuncu adı veya Email
+button.accept,Kabul et
+button.invite,Davet et
+online.lobbypassword.enter,Lobi şifresini girin
+button.exit,Çıkış
+settings.audio.mute,Sesi kapat
+header.campaign,Kampanya
+game.over.prompt.confirm,Oyundan ayrıl
+settings.pc.graphics.high,Yüksek
+settings.pc.graphics.medium,Orta
+settings.pc.graphics.low,Düşük
+account.error.usernametaken,Bu Hesap Zaten Mevcut
+mainmenu.friends,Arkadaşlar
+settings.title,Ayarlar
+friends.invite,Davet et
+friends.removefriend,Arkadaşı Kaldır
+friends.game.invite.accept,Kabul
+friends.game.invite.decline,Reddet
+friends.cancelrequest,İptal
+button.next,Sonraki
+landing.grm,Açık Dire Wolf Oyun Odası Uygulaması
+settings.clientversion,Müşteri Sürümü:
+settings.serverversion,Sunucu Sürümü:
+button.saveandquit,Kaydet ve Çık
+settings.resign,Çekil
+landing.achievements.gc,Başarılar
+button.mainmenu,Ana Menü
+button.replay,Yeniden Oyna
+button.resign,Çekil
+lobby.resign.confirmation,Bu oyundan çekilmek istediğinizden emin misiniz?
+player.unsetperson,Oyuncu Bekliyor ...
+player.localperson,Sen
+button.skip,Geç
+dialogmessages.registration.nointernet,İnternet erişimi yok
+playonline.error.wrongpassword,Şifre doğru değil
+playonline.error.waitingoncasual,Zaten başlamak için başka bir eşzamanlı oyun bekliyorsunuz.
+playonline.error.cannotcreatelivegame,Zaten başka bir canlı oyun lobisinde bekliyorsunuz.
+playonline.error.cannotcreateasyncgame,Zaten başka bir eşzamanlı oyun lobisinde bekliyorsunuz.
+block.player,Block Player
+multiplayer.blockplayer,{0} bloke etmek mesajlarını gizler. Bu eylem geri alınamaz.
+multiplayer.reportplayer,{0} engellendi. Bu oyuncuyu bildirmek ister misiniz?
+multiplayer.reportplayer.describe,Lütfen neden {0} raporladığınızı açıklayın.
+multiplayer.reportplayer.reason.abusive,Kötü niyetli veya uygunsuz sohbet mesajları
+multiplayer.reportplayer.reason.inappropriateusername,Uygunsuz Kullanıcı Adı
+multiplayer.reportplayer.reason.griefing,Rahatsız edici veya kasıtlı yavaş oyun
+multiplayer.reportplayer.reason.cheating,Şüpheli hile veya botlama
+name.ai.easy,AI (kolay)
+name.ai.medium,AI (Orta)
+name.ai.hard,AI (Zor)
+button.createfriendgame,Arkadaş Oyunu Oluştur
+playonline.yourturn,Senin sıran
+multiplayer.yourturn.2,Oyun sırası sizde!
+mainmenu.friendgame,Arkadaş oyunu
+button.invitefriend,Arkadaşını davet et
+player.defaultname,Oyuncu
+button.decline,Reddetmek
+button.minimize,Küçültmek
+button.expand,Genişletmek
+multiplayer.matchchat,Oyun sohbeti
+multiplayer.variants,Seçenek
+prompt.unitdetails.title.monster,Canavar durumu
+prompt.unitdetails.title.player,Oyuncu durumu
+prompt.unitdetails.subheader,Uygulanan Kartlar
+trade.empty.player,"Kartınızı buraya sürükleyin. <br> Boş bırakılırsa, eşyalarınızdan hiçbir şey sunulmayacaktır."
+trade.empty.partner,"Kartınızı buraya sürükleyin. <br> Boş bırakılırsa, eşyalarından hiçbir şey sunulmayacaktır."
+trade.theyget,Onun Verdiği
+trade.iget,Senin Alacağın
+sell.wontlevel,Level 10'a ulaşılacağından eşya satamazsınız.
+sell.youritems,Eşyalarınız
+sell.tosell,Satılacak eşyalar
+sell.empty,itemlerinizi buraya sürükleyin.<br><br>Sattığınız her {0} altına 1 level atlayabilirsin.
+kin.level,Level
+prompt.inventory.offertrade,Takas Teklifi
+prompt.inventory.sellforlevel,Level için sat
+playmat.battle.askforhelp,Yardım isteyin
+playmat.battle.runaway,Kaç!
+playmat.battle.failed,Başarısız!
+playmat.battle.success,Başarılı!
+prompt.avatarselection,Avatar seçimi
+prompt.showowned,Sahip olunanları göster
+prompt.sort,Sıralama
+card.type.class,Sınıf
+card.type.race,Irk
+card.type.item,Item
+card.type.item.big,Item - Büyük
+card.type.item.oneshot,Item - Tek Kullanım
+card.type.curse,LANET!
+card.type.special,Özel
+card.type.monster,Canavar
+card.type.monster.undead,Canavar - Ölümsüz
+card.type.monsterenhancer,Canavar Güçlendirici
+playmat.battle.win,Saldır!
+player.name.self,Sen
+playonline.offplayer.label,Kapalı
+login.newaccount,Yeni hesap
+playonline.humanplayer.label,Açık
+character.race.norace,Irk Yok
+character.race.human,İnsan
+character.race.dwarf,Cüce
+character.race.elf,Elf
+character.race.halfling,Hobbit
+character.class.noclass,Sınıf Yok
+character.class.none,Sınıf Yok
+character.class.cleric,Din adamı
+character.class.thief,Hırsız
+character.class.warrior,Savaşçı
+character.class.wizard,Büyücü
+button.emote,İfade
+placement.1st,Birinci
+placement.2nd,İkinci
+placement.3rd,Üçüncü
+placement.4th,Dördüncü
+placement.5th,Beşinci
+placement.6th,Altıncı
+button.done,Tamamlandı
+gen.one,Bir
+gen.two,İki
+gen.three,Üç
+prompt.inventory.configure,Değiştir
+equip.armor,Zırh
+equip.headgear,Başlık
+equip.footgear,Ayakkabı
+equip.onehand,Tek elli
+equip.twohand,İki elli
+equip.twohandbig,İki elli Büyük
+equip.oneshot,Tek Kullanım
+prompt.tradeoffer.togive,Itemlar için
+prompt.tradeoffer.toreceive,{0} Teklifler
+prompt.tradeoffer.header,Takas Teklifi
+prompt.tradecomplete.accepted,Takas Kabul Edildi
+prompt.tradecomplete.rejected,Takas reddedildi
+sell.noitemstosell,Satacak itemınız yok
+deck.door,Kapı
+deck.treasure,Hazine
+sex.male,Erkek
+sex.female,Dişi
+prompt.inventory.equipped,Üzerinizdekiler
+prompt.inventory.carried,Çantanızdakiler
+prompt.inventory.inhand,Elinizdekiler
+prompt.inventory.raceclass,Irk / Sınıf
+button.block,Block
+prompt.unequip.header,Itemlarınızı Seçin
+prompt.replaceclass.header,Sınıfını Değiştir
+prompt.replacerace.header,Irkını Değiştir
+prompt.lootthebody.header,Eşyaları yağmalayın
+prompt.played,Oynanan
+prompt.readylivegame,Canlı oyunun hazır. Tur süreleri kısa olduğu için oyuna girmelisiniz veya çekilmelisiniz.
+prompt.discard.header,Iskartaya çıkart
+dragtarget.drophere,Buraya bırak
+dragtarget.usenow,Şimdi kullan
+dragtarget.addundead,Savaşa ölümsüz ekle
+prompt.stealcard.header,Kart çal
+prompt.choosecard.header,Kart seçin
+prompt.chooseplayer.header,Oyuncu Seçin
+prompt.choosemanyplayers.header,Oyuncuları Seçin
+prompt.killhireling.header,Yardıma geleni öldür
+prompt.choosediscardpile.header,Iskartadan çekin
+button.confirm,Onayla
+emote.curses,Lanetler!
+emote.incredible,İnanılmaz!
+emote.help,Bu kadar kolay olmasaydı keşke ...
+emote.unplanned,Bu planlandığı gibi gitmedi ...
+emote.wellplayed,Helallllllllllsss
+emote.run,Koş lan koşşşşş
+prompt.general.or,veya
+prompt.reportplayer.dropdown,Raporlama nedeninizi seçin
+prompt.discarded,Atılan
+prompt.gave,{0} 'a verildi
+prompt.stole,{0} tarafından çalındı
+button.distract,Dikkatini dağıtmak
+kin.killnose,Burnu öldür
+button.wave,Geçmek
+button.scare,Booga Booga
+button.bribe,Rüşvet
+button.ignorefight,Kavgayı es geç
+prompt.cursed,Lanetlendin
+prompt.cheat.header,Hile!
+button.reconnect,Yeniden bağlanmak
+match.askforhelp.failed,Yardım reddedildi
+playonline.error.cannotjoingame,Zaten başlamak için başka bir oyunda bekliyorsunuz.
+gameoptions.endturnjumpin,Tur sonu Katılmaya izin veriyor
+prompt.title.tradedfor,İçin takas edildi
+prompt.used,Kullanılmış
+button.mustaccept,TAMAM
+prompt.sold,Satıldı
+kin.deckshuffle.door,Kapı kartlarını karıştır
+kin.deckshuffle.treasure,Hazine kartlarını karıştır
+auto.update.body,Bir güncelleme mevcut.
+auto.update.body.forced,Devam etmek için bir güncelleme gerekir.
+auto.update.confirm,Güncelleme
+button.reject,Reddetmek
+deck.door.top,Kapı kartlarının en üstündeki
+deck.treasure.top,Hazine kartlarının en üstündeki
+card.type.monster.baby,Canavar - Bebek
+card.type.monster.baby.undead,Canavar - Ölümsüz Bebek
+prompt.looted,{0} tarafından yağmalandı
+dialogmessages.addfriend.inviteexists,Bu kullanıcıya zaten davet gönderildi.
+login.deleteaccountbutton,Hesabı sil
+deleteaccount.confirm.message,Hesabınızı silmek istediğinizden emin misiniz?
+deleteaccount.complete.message,Hesap silme işlemini tamamlamak için e -postanızı kontrol edin.
+deleteaccount.failed.message,"Bir ağ hatası, hesabınızı silmenizi engelledi. Daha sonra tekrar deneyin."
+playonline.error.gamefull,Bu oyun dolu.
+dialogmessages.continuegame.failure.gameended,Oyun kalan insan oyuncuları olmadığı için sona erdi
+kin.combat.rewards.draft.pick,Seçin [pick]: Bir kart seçin
+equip.armorbig,Zırh - Büyük
+equip.onehandbig,Tek el - Büyük
+equip.slotlessbig,Büyük
+multiplayer.gamecompleted.1,{0} ile oyununuz tamamlandı. Sonuçları görüntüle?
+multiplayer.gamecompleted.2,{0} ve {1} ile oyununuz tamamlandı. Sonuçları görüntüle?
+multiplayer.gamecompleted.3,"{0}, {1} ve {2} ile oyununuz tamamlandı. Sonuçları görüntüle?"
+multiplayer.gamecompleted.4,"{0}, {1}, {2} ve {3} ile oyununuz tamamlandı. Sonuçları görüntüle?"
+multiplayer.gamecompleted.5,"{0}, {1}, {2}, {3} ve {4} ile oyununuz tamamlandı. Sonuçları görüntüle?"
+multiplayer.gamecompleted.6,"{0}, {1}, {2}, {3}, {4} ve {5} ile oyununuz tamamlandı. Sonuçları görüntüle?"
+prompt.gave.too.big,{0} 'a verildi çünkü çok fazla büyük eşyaları vardı.
+kin.event.revived,Yeniden canlandı.
+test.ops.key,test.ops.key
+base.door.50de36e5-d3ba-4bd6-abe2-694c8f1c2d7e.name,Plütonyum Ejderhası
+base.door.278b4940-f066-4019-a0e5-4f9a5cc09f0e.name,Bay Bones
+base.door.51ae062a-ebff-11ec-8ea0-0242ac120002.name,Sınıfı Değiştir
+base.door.2cdcfcbf-228b-46b9-851e-6d5ba05f8300.name,Irkı Değiştir
+base.door.171641c6-ba97-425c-8b65-9d5a04105a04.name,Cinsiyeti değiştir
+base.door.1c9f4659-bc94-4904-ad2c-7cf9b733c88c.name,Kafanda Tavuk var
+base.door.4e2b9d92-2841-4ba8-ac42-8cfe1ab6b519.name,Tavuk Kıyameti
+base.door.c72b235c-c758-427e-a882-e21aa0a8d351.name,RTE Laneti (Vergi)
+base.door.fd91affd-27ba-4d0c-88b3-bb4313c440cf.name,Büyük bir eşyanı kaybet
+base.door.1c83481f-ed9e-4e3f-9d78-72e527693ff7.name,Bir Level Kaybet
+base.door.217b04bf-e9b0-4878-b1cd-4f9122239913.name,Bir Level Kaybet
+base.door.d6fd9095-d91a-42f3-9004-98181b10eaf0.name,Küçük bir eşyanı kaybet
+base.door.e9f354fb-0267-487b-a4dc-2709b65c870d.name,Küçük bir eşyanı kaybet
+base.door.4a26cc13-09e9-4366-97f3-70a176a6c9bc.name,Zırhını kaybet
+base.door.2df75f0c-19e7-42c4-b978-7d41a0042dde.name,Başlığını kaybet
+base.door.4d904b4c-d13a-4112-875a-35cfceaede54.name,Ayakkağını Kaybet
+base.door.be74d2ee-5455-425d-93ea-dbb443ea778a.name,İki kart kaybet
+base.door.25b06508-10aa-43de-a3c7-24880b8afd72.name,Sınıfınızı kaybet
+base.door.d5183d93-4f22-4aa2-a6fb-bacb6fa1d33e.name,Irkını Kaybet
+base.door.e0be0f5f-0724-4d82-b577-c55ff5b74839.name,Malign Ayna
+base.door.b42aff04-6ff2-41c2-af92-637b283b8ea5.name,Gerçekten iğrenç lanet!
+base.door.2413c379-f721-42d6-aca8-e1fb7eb9011f.name,Din adamı
+base.door.5705ed95-b87d-4cc0-9daf-f6382be734a8.name,Hırsız
+base.door.7ff31d6d-05bd-4b10-bae9-fe18ba7ea087.name,Savaşçı
+base.door.388e4af8-ba44-4715-9962-455838bfbe73.name,Büyücü
+base.door.b1cc599b-1ab0-4980-ad9a-f99882647fb0.name,Süper munchkin
+base.door.ff722a55-5407-439d-b7af-57f633e0dbf3.name,Cüce
+base.door.9fa924db-5b36-4831-9f6e-de8303b001b0.name,Elf
+base.door.d9952bfe-f65d-4d46-881a-7e1a2e46f06f.name,Hobbit
+base.door.4e25e9b2-f39b-426e-9fc0-134d00226b98.name,Yarı Irk
+base.door.a3f1f98e-27d1-4bd5-b97f-203a89114790.name,Bullrog
+base.door.e93e7b43-62bd-4ab3-be4c-506c8a6a621c.name,Squidzilla
+base.door.8ab95f50-2c7a-4e6b-ae43-51a51b64b5d3.name,Hipogrif
+base.door.afed7786-e2e9-4ca2-a0a6-d30d6df3702b.name,King Tut
+base.door.cd3f3f05-8317-450c-86e4-fd91e0c06bb4.name,Wight Brothers
+base.door.af48c486-1888-4e7e-ad55-0b48d227af3c.name,Insurance Salesman
+base.door.65dee751-4508-4804-8faa-b17fa9c4ed79.name,Stoned Golem
+base.door.aa5584c1-fd5d-49a5-8cc0-75f3422c8e6a.name,Unspeakably Awful Indescribable Horror
+base.door.37b667a1-23ac-4a5f-9427-afff2dad4705.name,Bigfoot
+base.door.4977fc4f-66df-40a6-b5ca-562bb4c8b112.name,Tongue Demon
+base.door.3ee0b351-54f2-4480-9aa3-380d2593e84a.name,Wannabe Vampire
+base.door.55e5c91e-a987-4900-abec-0f502175288a.name,"3,872 Orcs"
+base.door.db29801c-5fe4-4a6c-9e41-35752d1a36bb.name,Floating Nose
+base.door.43b16c0e-49ac-4688-8db8-5737cbd50eef.name,Net Troll
+base.door.3fb5c60b-98a1-4775-b7b7-7c02910732f2.name,Amazon
+base.door.4d052f9a-2def-4ab8-b100-fde850b71507.name,Gazebo
+base.door.88716968-ead5-4473-9db2-85b9e9f69ef0.name,Ghoulfiends
+base.door.6832d810-5af2-40f9-9877-0dfe91d808f2.name,Face Sucker
+base.door.79d7e37c-ad44-460e-a1e9-e65bceeaed00.name,Lawyers
+base.door.ef2c8c7e-3043-46a6-ba47-c69ab67f7f2f.name,Platycore
+base.door.739ed395-dbbd-4108-92c3-4cbfd317e9c5.name,Pukachu
+base.door.83ddfb20-2791-40bb-ba58-c051ae2eae9c.name,Shrieking Geek
+base.door.2f0b14f5-4aab-4855-b9c6-3a340349af8a.name,Harpies
+base.door.4a0ad1cf-01bf-423a-9328-e983d188032f.name,Snails on Speed
+base.door.f906cf16-5a1a-422c-b3fa-9ec583e54c4e.name,Snails on Speed
+base.door.63df5d66-f885-4e54-94f7-2cf4e1a8b8d0.name,Undead Horse
+base.door.b9d66767-ceee-47bb-a428-691cb557c716.name,Flying Frogs
+base.door.cc935bfb-40a1-42c0-9c14-d89f91662971.name,Gelatinous Octahedron
+base.door.53f277b6-ed4b-498d-a582-a2d31c38bf52.name,Büyük Kızgın Tavuk
+base.door.93a5ec2f-ee7f-4654-a28d-fcf045fa0f97.name,Çukur
+base.door.25586aec-1ac3-4b4b-9c9a-bead276efac1.name,Yengeçler
+base.door.96f29253-b3f9-483f-8028-2e96e2aa519f.name,Drooling Slime
+base.door.da9241e2-ed86-4ee1-9a5b-637c95598d4d.name,Lame Goblin
+base.door.e013dc7b-77a6-458c-af20-30de04317cc0.name,Maul Rat
+base.door.6bcc1629-aaea-409b-9dbc-7fe53576d6a6.name,Potted Plant
+base.door.db4f0e50-a540-4f28-bf8c-cc3eef7d8110.name,Ancient
+base.door.bf631030-1e99-4ccc-ae8f-a538a9038c0b.name,Baby
+base.door.07501f59-6c5a-41fb-99be-e6b0706e001d.name,Enraged
+base.door.45814a37-7d87-4333-8e69-3068628f2474.name,Humongous
+base.door.b6ec7ed3-9676-42c9-a55b-f5803f12470d.name,Intelligent
+base.door.b95cafbd-d581-43ff-a08b-39979135b256.name,Mate
+base.door.efa6fd1e-5308-467c-ae0e-2db9ccfe211a.name,Wandering Monster
+base.door.db238a1c-81ef-4b02-8bc2-4dcb50577ab3.name,Cheat!
+base.door.68e54c25-7e83-4c13-ab9a-13d1381d5850.name,İlahi müdahale
+base.door.8cf2ebf1-610d-448e-a5f6-76f4c73d8176.name,Bana yardım et!
+base.door.04774ddc-83e9-48a2-b1ed-3ae630e511b3.name,İllüzyon
+base.door.47b91b62-624d-4543-a0da-50e55cf47a56.name,Öğle yemeğine
+base.door.50de36e5-d3ba-4bd6-abe2-694c8f1c2d7e.text,Level 5 veya daha düşük olan kimseyi takip etmeyecektir.
+base.door.278b4940-f066-4019-a0e5-4f9a5cc09f0e.text,"Eğer kaçmanız gerekiyorsa, kaçsanız bile bir level kaybedersiniz."
+base.door.51ae062a-ebff-11ec-8ea0-0242ac120002.text,"Sınıfınız yoksa, bu lanetin bir etkisi yoktur. Iskartaya gidin en üstten başlayarak bir sınıf kartı bulana karta kartlara bakın bulduğunuz ilk kart sizin yeni sınıfınız olacak eğer bir kart bulamazsanız sınıfınız kaybedin."
+base.door.2cdcfcbf-228b-46b9-851e-6d5ba05f8300.text,"Şimdi Irkınız yoksa, bu lanetin bir etkisi yok. Iskartaya gidin en üstten başlayarak bir ırk kartı bulana karta kartlara bakın bulduğunuz ilk kart sizin yeni ırkınız olacak eğer bir kart bulamazsanız ırkınızı kaybedin."
+base.door.171641c6-ba97-425c-8b65-9d5a04105a04.text,Dikkat dağınıklığı nedeniyle bir sonraki savaşınıza -5 güç kaybedersiniz. Savaştan sonra cezanız kalkar ancak değişiklik kalıcıdır.
+base.door.1c9f4659-bc94-4904-ad2c-7cf9b733c88c.text,Tüm kaçış zar atışlarınıza -1. Başlığınızı kaldıran herhangi bir lanet veya kötü şey tavuğu yanına alacaktır.
+base.door.4e2b9d92-2841-4ba8-ac42-8cfe1ab6b519.text,Zindandan ördek almaman gerektiğini bilmelisin. İki Level kaybet.
+base.door.c72b235c-c758-427e-a882-e21aa0a8d351.text,"Seçtiğiniz bir itemı atın. Diğer her oyuncu artık bir itemi veya itemleri attığınız item kadar değer vermelidir. Tüm vergiyi ödemek için yeterli yoksa, tüm eşyalarını atmalı ve bir Leveli kaybetmelidirler."
+base.door.fd91affd-27ba-4d0c-88b3-bb4313c440cf.text,Atmak için büyük bir item seçin.
+base.door.1c83481f-ed9e-4e3f-9d78-72e527693ff7.text,Levelini kaybedersin
+base.door.d6fd9095-d91a-42f3-9004-98181b10eaf0.text,Atmak için küçük bir item seçin. Büyük olarak adlandırılmayan herhangi bir ürün küçüktür.
+base.door.4a26cc13-09e9-4366-97f3-70a176a6c9bc.text,Giydiğin zırhı kaybet
+base.door.2df75f0c-19e7-42c4-b978-7d41a0042dde.text,Giydiğin başlığı kaybet
+base.door.4d904b4c-d13a-4112-875a-35cfceaede54.text,Giydiğin ayakkabıyı kaybet
+base.door.be74d2ee-5455-425d-93ea-dbb443ea778a.text,İlk olarak kurbanın sırayla sipariş verdikten sonra kurbanın elinden bir kart çeker ve onu korur. Sonra kurbanın önünde oyuncu sırayla aynı şeyi yapar.
+base.door.25b06508-10aa-43de-a3c7-24880b8afd72.text,"Varsa sınıf kartınızı atın. Oyunda iki sınıfınız varsa, bunlardan birini kaybedin (sizin seçiminiz). Sınıfınız yoksa, bir Level kaybedin."
+base.door.d5183d93-4f22-4aa2-a6fb-bacb6fa1d33e.text,Oyunda sahip olduğunuz Irkları atın ve insan olun.
+base.door.e0be0f5f-0724-4d82-b577-c55ff5b74839.text,"Lanetlisin! Bir sonraki dövüşünüzde (sadece), zırh dışındaki eşyalardan herhangi bir bonus alamayabilirsiniz. Bir sonraki dövüşten önce kullanılan bir dilek yüzüğü laneti kaldıracaktır."
+base.door.b42aff04-6ff2-41c2-af92-637b283b8ea5.text,Size en büyük bonusu veren itemi kaybedin
+base.door.2413c379-f721-42d6-aca8-e1fb7eb9011f.text,"<b> Diriliş: </b> Kart çizmenin zamanı geldiğinde, bunun yerine uygun <i> atma </i> ıskartanın tepesinden bir veya tamamını alabilirsin. <br> Ardından, çizilen her kart için elinizden bir kart atın. Her atma size +3 bonus verir."
+base.door.fe64f0ce-af63-467d-8ad1-0ee7ddbc344f.text,"<b> Diriliş: </b> Kart çizmenin zamanı geldiğinde, bunun yerine uygun <i> atma </i> ıskartanın tepesinden bir veya tamamını alabilirsin. <br> Ardından, çizilen her kart için elinizden bir kart atın. Her atma size +3 bonus verir."
+base.door.ca594201-bd83-4215-8b5a-88f5359bd827.text,"<b> Diriliş: </b> Kart çizmenin zamanı geldiğinde, bunun yerine uygun <i> atma </i> ıskartanın tepesinden bir veya tamamını alabilirsin. <br> Ardından, çizilen her kart için elinizden bir kart atın. Her atma size +3 bonus verir."
+base.door.5705ed95-b87d-4cc0-9daf-f6382be734a8.text,"<b> backstabbing: </b> Başka bir oyuncuyu geri almak için bir kart atabilirsiniz (savaşta -2). Bunu savaş başına mağdur başına sadece bir kez yapabilirsiniz, ancak iki oyuncu birlikte bir canavarla savaşıyorsa, her birini destekleyebilirsiniz. Başka bir oyuncu tarafından taşınan küçük ürün. Bir kalıp; 4 veya daha fazla başarılı. Aksi takdirde, vurulur ve bir Level kaybedersiniz."
+base.door.6f8d05dd-10e6-41b3-813b-a74d4afa2a62.text,"<b> backstabbing: </b> Başka bir oyuncuyu geri almak için bir kart atabilirsiniz (savaşta -2). Bunu savaş başına mağdur başına sadece bir kez yapabilirsiniz, ancak iki oyuncu birlikte bir canavarla savaşıyorsa, her birini destekleyebilirsiniz. Başka bir oyuncu tarafından taşınan küçük ürün. Bir kalıp; 4 veya daha fazla başarılı. Aksi takdirde, vurulur ve bir Level kaybedersiniz."
+base.door.a6ebc11c-6d9a-462c-b8e9-b2ec5e2d0222.text,"<b> backstabbing: </b> Başka bir oyuncuyu geri almak için bir kart atabilirsiniz (savaşta -2). Bunu savaş başına mağdur başına sadece bir kez yapabilirsiniz, ancak iki oyuncu birlikte bir canavarla savaşıyorsa, her birini destekleyebilirsiniz. Başka bir oyuncu tarafından taşınan küçük ürün. Bir kalıp; 4 veya daha fazla başarılı. Aksi takdirde, vurulur ve bir Level kaybedersiniz."
+base.door.7ff31d6d-05bd-4b10-bae9-fe18ba7ea087.text,<b> Berserking: </b> Savaşta en fazla üç kartı atabilirsiniz; Her biri size +1 bonus verir. <br> Savaşta bağlar kazanırsınız.
+base.door.08bbdd74-a5bb-4150-980a-63ffb491e787.text,<b> Berserking: </b> Savaşta en fazla üç kartı atabilirsiniz; Her biri size +1 bonus verir. <br> Savaşta bağlar kazanırsınız.
+base.door.094b1e99-e8e3-4111-8ad7-6d9f57c62bc4.text,<b> Berserking: </b> Savaşta en fazla üç kartı atabilirsiniz; Her biri size +1 bonus verir. <br> Savaşta bağlar kazanırsınız.
+base.door.388e4af8-ba44-4715-9962-455838bfbe73.text,"<b> Uçuş Büyüsü: </b> Kaçmak için kalıptan geçtikten sonra üç karta atabilirsiniz; Her biri size kaçmak için +1 bonus verir. Canavarı atın ve hazinesini alın, ancak Level kazanmayın. Savaşta başka canavarlar varsa, normal olarak onlarla savaşın."
+base.door.dda0c66f-0b6b-40dc-bd2c-4f0728c8089a.text,"<b> Uçuş Büyüsü: </b> Kaçmak için kalıptan geçtikten sonra üç karta atabilirsiniz; Her biri size kaçmak için +1 bonus verir. Canavarı atın ve hazinesini alın, ancak Level kazanmayın. Savaşta başka canavarlar varsa, normal olarak onlarla savaşın."
+base.door.3427143b-61fc-4317-a299-6c5333462a70.text,"<b> Uçuş Büyüsü: </b> Kaçmak için kalıptan geçtikten sonra üç karta atabilirsiniz; Her biri size kaçmak için +1 bonus verir. Canavarı atın ve hazinesini alın, ancak Level kazanmayın. Savaşta başka canavarlar varsa, normal olarak onlarla savaşın."
+base.door.b1cc599b-1ab0-4980-ad9a-f99882647fb0.text,"İki sınıf kartınız olabilir ve her birinin <i> ve </i> dezavantajlarının tüm avantajlarına sahip olabilir. Ya da bir sınıf kartınız olabilir ve tüm avantajları ve hiçbiri dezavantajları olabilir (örneğin, nefret eden canavarlar bir süper din adamına karşı bonusu olmayacak). <br> Bu kartı kaybederseniz Sınıf kartlarınızı kaybedersiniz."
+base.door.26a21bc0-e8c9-49df-b088-67d1232fb7b6.text,"İki sınıf kartınız olabilir ve her birinin <i> ve </i> dezavantajlarının tüm avantajlarına sahip olabilir. Ya da bir sınıf kartınız olabilir ve tüm avantajları ve hiçbiri dezavantajları olabilir (örneğin, nefret eden canavarlar bir süper din adamına karşı bonusu olmayacak). <br> Bu kartı kaybederseniz Sınıf kartlarınızı kaybedersiniz."
+base.door.ff722a55-5407-439d-b7af-57f633e0dbf3.text,Çok sayıda büyük item taşıyabilirsiniz. <br> Elinizde altı kart olabilir.
+base.door.11906a8f-4622-47bd-91ba-a6f5bedb0e5d.text,Çok sayıda büyük item taşıyabilirsiniz. <br> Elinizde altı kart olabilir.
+base.door.2faaf8ea-2915-42dc-a71a-91f7ef6c2b9f.text,Çok sayıda büyük item taşıyabilirsiniz. <br> Elinizde altı kart olabilir.
+base.door.9fa924db-5b36-4831-9f6e-de8303b001b0.text,1+ kaçmak için. <br> Yardım ettiğiniz her başarılı canavar öldürmede 1 level kazanırsınız.
+base.door.df82e0d2-07a4-47aa-b6cb-0a0281a2f2cc.text,1+ kaçmak için. <br> Yardım ettiğiniz her başarılı canavar öldürmede 1 level kazanırsınız.
+base.door.3b6f7658-e53f-4713-b447-16785e3eb036.text,1+ kaçmak için. <br> Yardım ettiğiniz her başarılı canavar öldürmede 1 level kazanırsınız.
+base.door.d9952bfe-f65d-4d46-881a-7e1a2e46f06f.text,"Her tur bir itemi iki katına kadar fiyata satabilirsiniz (diğer itemlar normal fiyattadır).<br>İlk Run Away atışınızda başarısız olursanız, bir kartı atabilir ve bir kez daha deneyebilirsiniz."
+base.door.97567e5e-96cf-4ddb-9112-2fce279a0138.text,"Her tur bir itemi iki katına kadar fiyata satabilirsiniz (diğer itemlar normal fiyattadır).<br>İlk Run Away atışınızda başarısız olursanız, bir kartı atabilir ve bir kez daha deneyebilirsiniz."
+base.door.6e83b590-71df-48b3-acdc-481e1a2be7fe.text,"Her tur bir itemi iki katına kadar fiyata satabilirsiniz (diğer itemlar normal fiyattadır).<br>İlk Run Away atışınızda başarısız olursanız, bir kartı atabilir ve bir kez daha deneyebilirsiniz."
+base.door.4e25e9b2-f39b-426e-9fc0-134d00226b98.text,"İki Irk kartınız olabilir ve her birinin tüm avantajlarına sahip olabilirsiniz. Ya da bir Irk kartınız olabilir ve tüm avantajları ve hiçbiri dezavantajları olabilir (örneğin, elflerden nefret eden canavarların yarım elf karşı bonusu olmayacaktır). Irk kartlarınızı kaybederseniz bu kartı kaybedin."
+base.door.bf201553-be7c-4479-a7a0-9cc417588198.text,"İki Irk kartınız olabilir ve her birinin tüm avantajlarına sahip olabilirsiniz. Ya da bir Irk kartınız olabilir ve tüm avantajları ve hiçbiri dezavantajları olabilir (örneğin, elflerden nefret eden canavarların yarım elf karşı bonusu olmayacaktır). Irk kartlarınızı kaybederseniz bu kartı kaybedin."
+base.door.a3f1f98e-27d1-4bd5-b97f-203a89114790.text,Level 4'ten veya daha düşükseniz sizinle savaşmayacaktır.
+base.door.e93e7b43-62bd-4ab3-be4c-506c8a6a621c.text,"Slimy! Elfler -4'te! Elfler hariç, Level 4'ten veya daha düşükseniz sizinle savaşmayacaktır."
+base.door.8ab95f50-2c7a-4e6b-ae43-51a51b64b5d3.text,Level 3'ten veya daha düşükseniz sizinle savaşmayacaktır.
+base.door.afed7786-e2e9-4ca2-a0a6-d30d6df3702b.text,"Level 3 veya daha düşükseniz sizinle savaşmayacaktır. Üst düzey karakterler iki Level kaybeder, kaçış olsalar bile </i>."
+base.door.cd3f3f05-8317-450c-86e4-fd91e0c06bb4.text,"Level 3 veya daha düşükseniz sizinle savaşmayacaktır. Üst düzey karakterler iki Level kaybeder, kaçış olsalar bile </i>."
+base.door.af48c486-1888-4e7e-ad55-0b48d227af3c.text,Levelniz sayılmaz. Onunla sadece item bonuslarınızla savaşın!
+base.door.65dee751-4508-4804-8faa-b17fa9c4ed79.text,"Taşlı Golem ile savaşıp sadece dalgalanmayı, yanından geçip hazinesini korumasına izin vermeyi seçebilirsiniz. (<b> istisna: </b> yarım kales lezzetli görünüyor ve savaşmalı.)"
+base.door.aa5584c1-fd5d-49a5-8cc0-75f3422c8e6a.text,Savaşçılara karşı +4.
+base.door.37b667a1-23ac-4a5f-9427-afff2dad4705.text,Cücelere ve yarımlara karşı +3.
+base.door.4977fc4f-66df-40a6-b5ca-562bb4c8b112.text,Cehennemden bir yaratık. Din adamlarına karşı +4. Savaştan önce bir itemi (seçiminiz) atmalısınız.
+base.door.3ee0b351-54f2-4480-9aa3-380d2593e84a.text,"Bir din adamı savaşmak yerine, sadece “Booga Booga” yı giderek Wannabe Vampirini kovalayabilir ve tüm hazinesini alabilir. Bunun için Level bir artış yok!"
+base.door.55e5c91e-a987-4900-abec-0f502175288a.text,Eski kinler nedeniyle cücelere karşı +6.
+base.door.db29801c-5fe4-4a6c-9e41-35752d1a36bb.text,"Yüzen burunla savaşmak istemiyorsanız, en az 200 altın parçaya değer bir itemyle rüşvet verebilirsiniz ve gitmenize izin verecektir."
+base.door.43b16c0e-49ac-4688-8db8-5737cbd50eef.text,Özel bir gücü yok ve buna gerçekten kızıyor.
+base.door.3fb5c60b-98a1-4775-b7b7-7c02910732f2.text,Kadınlara saldırmayacak; Bunun yerine onlara bir hazine veriyor.
+base.door.4d052f9a-2def-4ab8-b100-fde850b71507.text,Kimse sana yardım edemez. Sadece Gazebo yüzleşmelisin.
+base.door.88716968-ead5-4473-9db2-85b9e9f69ef0.text,Hiçbir item veya diğer bonuslar onlara karşı yardımcı olmaz - sadece Levelnizle savaşın.
+base.door.6832d810-5af2-40f9-9877-0dfe91d808f2.text,Bu iğrenç!! Elflere karşı +6.
+base.door.79d7e37c-ad44-460e-a1e9-e65bceeaed00.text,Bir hırsıza saldırmayacak (profesyonel nezaket). Bir avukatla karşılaşan bir hırsız bunun yerine iki hazine atabilir ve iki hazine çekebilir.
+base.door.ef2c8c7e-3043-46a6-ba47-c69ab67f7f2f.text,Büyüye direnir. büyücülara karşı +6.
+base.door.739ed395-dbbd-4108-92c3-4cbfd317e9c5.text,Yardım veya bonus kullanmadan öldürürseniz ekstra bir Level kazanın.
+base.door.83ddfb20-2791-40bb-ba58-c051ae2eae9c.text,Savaşçılara karşı +6.
+base.door.2f0b14f5-4aab-4855-b9c6-3a340349af8a.text,Büyüye direniyorlar. büyücülara karşı +5.
+base.door.4a0ad1cf-01bf-423a-9328-e983d188032f.text,O iğrenç!! Elflere karşı +5.
+base.door.f906cf16-5a1a-422c-b3fa-9ec583e54c4e.text,Kaçış zarına -2.
+base.door.63df5d66-f885-4e54-94f7-2cf4e1a8b8d0.text,Cücelere karşı +5.
+base.door.b9d66767-ceee-47bb-a428-691cb557c716.text,Kaçış zarına -1
+base.door.cc935bfb-40a1-42c0-9c14-d89f91662971.text,Kaçmak zarına +1.
+base.door.53f277b6-ed4b-498d-a582-a2d31c38bf52.text,Kızarmış tavuk lezzetlidir. Ateş veya alevle öldürürseniz ekstra bir Level kazanın.
+base.door.93a5ec2f-ee7f-4654-a28d-fcf045fa0f97.text,"Eğer yenemezseniz, herhangi bir asa, direk veya personeli bırakarak dikkatini dağıtabilirsiniz (otomatik kaçış). (Yakala, Fido!)"
+base.door.25586aec-1ac3-4b4b-9c9a-bead276efac1.text,Kaçılmaz!
+base.door.96f29253-b3f9-483f-8028-2e96e2aa519f.text,Yucky Slime! Elflere karşı +4.
+base.door.da9241e2-ed86-4ee1-9a5b-637c95598d4d.text,Kaçış zarına +1.
+base.door.e013dc7b-77a6-458c-af20-30de04317cc0.text,Cehennemden bir yaratık. Din adamlarına karşı +3.
+base.door.6bcc1629-aaea-409b-9dbc-7fe53576d6a6.text,Elfler yendikten sonra ekstra bir hazine kazanır.
+base.door.db4f0e50-a540-4f28-bf8c-cc3eef7d8110.text,"Canavara +10 güç ekler <br> Herhangi bir savaş sırasında oynayın. Canavar yenilirse, ekstra iki hazine kazanır."
+base.door.bf631030-1e99-4ccc-ae8f-a538a9038c0b.text,"Canavara -5 güç kaybeder <br> Herhangi bir savaş sırasında oynayın. Canavar yenilirse, bir daha az hazine (en düşük 1) kazanır."
+base.door.07501f59-6c5a-41fb-99be-e6b0706e001d.text,"Canavara +5 güç ekler <br> Herhangi bir savaş sırasında oynayın. Canavar yenilirse, ekstra bir hazine çizin."
+base.door.45814a37-7d87-4333-8e69-3068628f2474.text,"Canavara +10 güç ekler <br> Herhangi bir savaş sırasında oynayın. Canavar yenilirse, ekstra iki hazine kazanır."
+base.door.b6ec7ed3-9676-42c9-a55b-f5803f12470d.text,"Canavara +5 güç ekler <br> Herhangi bir savaş sırasında oynayın. Canavar yenilirse, ekstra bir hazine kazanır."
+base.door.b95cafbd-d581-43ff-a08b-39979135b256.text,"Aynı Levelde ve aynı canavar arttırıcılarla başka bir canavar görünür. Canavarlar yenilirse, her biri için hazine çekin ve her biri için Levellere kazanın."
+base.door.efa6fd1e-5308-467c-ae0e-2db9ccfe211a.text,"Birisi (siz dahil!) Savaşta olduğunda, bu kartı elinizden bir canavarla oynayın. Canavarınız zaten savaşan kişiye katılıyor - savaş güçlü yönlerini ekleyin. Karakter (ler) kaçmalısa, kurbanın seçtiği sırayla kaçan girişimleri ayrı ayrı çözün."
+base.door.db238a1c-81ef-4b02-8bc2-4dcb50577ab3.text,"Bu kartı, oynadığınız bir ürün kartıyla veya elinizden bir ürün kartı çaldığınızda oynatın. Bu item, başka türlü olmasa bile kullanmanız için yasaldır. Ekli itemi kaybettiğinizde (sattığınızda) bu kartı atın."
+base.door.68e54c25-7e83-4c13-ab9a-13d1381d5850.text,"Bu kartı alır almaz oynamalısınız. <br> Tüm din adamları hemen bir Levelye çıkıyor. Bu kazanma Levelsi olabilir. Bu kart kazanırsa, diğer oyuncuları acımasızca alay etme hakkınız vardır."
+base.door.8cf2ebf1-610d-448e-a5f6-76f4c73d8176.text,"Bir savaş kaybederken bu kartı oynayın. Başka bir oyuncudan bir item alın. Aldığınız anda, bu item kazandığınız ve bu savaşı kaybedersin arasındaki farkı yaratmalıdır. İsterseniz, itemi almadan önce kendinize ait bir şey atabilirsiniz."
+base.door.04774ddc-83e9-48a2-b1ed-3ae630e511b3.text,"Herhangi bir savaş sırasında bu kartı oynayın. Bu savaştaki herhangi bir canavarı, onu değiştirmek için oynanan kartlarla birlikte atın ve elinizden bir canavar kartı ile değiştirin."
+base.door.47b91b62-624d-4543-a0da-50e55cf47a56.text,Bu odadaki canavar mola veriyor. Herhangi bir savaş sırasında bu kartı oynayın. Canavar (lar) ile karşı karşıya olan oyuncu hepsini atar ve hemen iki hazine kartı kazanır.
+base.door.50de36e5-d3ba-4bd6-abe2-694c8f1c2d7e.badstuff,"Kavrulup yenirsiniz. Ölüsünüz.<br>Sıranız geldiğinde bu canavarı yenerseniz, ekstra bir seviye kazanın."
+base.door.278b4940-f066-4019-a0e5-4f9a5cc09f0e.badstuff,Kemik dokunuşu size iki Levele mal olur.
+base.door.a3f1f98e-27d1-4bd5-b97f-203a89114790.badstuff,Yüzülerek öldün.
+base.door.e93e7b43-62bd-4ab3-be4c-506c8a6a621c.badstuff,"Yakalandınız, inceltildiniz, ezildiniz ve gobbled. Öldüğün, ölüsün, ölüsün. Herhangi bir sorunuz var mı?"
+base.door.8ab95f50-2c7a-4e6b-ae43-51a51b64b5d3.badstuff,Ezildin ve çiğnendin. Kaçarken bir şeyleri düşürürsün. Sırayla sizden önceki oyuncudan başlayarak her oyuncu önünüzden veya (bakmadan) elinizden bir Hazine kartı alabilir.
+base.door.afed7786-e2e9-4ca2-a0a6-d30d6df3702b.badstuff,Elinizdeki tüm eşyalarınızı ve tüm kartlarınızı kaybedin.
+base.door.cd3f3f05-8317-450c-86e4-fd91e0c06bb4.badstuff,Seviye 1'e düşürülürsünüz.
+base.door.af48c486-1888-4e7e-ad55-0b48d227af3c.badstuff,"Sigorta satın alıyorsunuz. 1.000 altın parçasının değerini kaybedin. Eğer o kadar çok yoksa, sahip olduğunuz her şeyi kaybedin."
+base.door.65dee751-4508-4804-8faa-b17fa9c4ed79.badstuff,Munchies var. Seni yiyor. Sen öldün.
+base.door.aa5584c1-fd5d-49a5-8cc0-75f3422c8e6a.badstuff,Bir büyücü dışında herkes için konuşulmayan korkunç bir ölüm. Bir büyücü sadece güçlerini kaybeder - büyücü kartını atar.
+base.door.37b667a1-23ac-4a5f-9427-afff2dad4705.badstuff,Seni tekmeler ve şapkanı yer. Taktığın başlığını kaybettin.
+base.door.4977fc4f-66df-40a6-b5ca-562bb4c8b112.badstuff,Gerçekten iğrenç bir öpücük size iki Levele (elfler için üç) mal olur.
+base.door.3ee0b351-54f2-4480-9aa3-380d2593e84a.badstuff,Kapıyı engeller ve size karakterini anlatır. Üç Level kaybetdersin.
+base.door.55e5c91e-a987-4900-abec-0f502175288a.badstuff,"Ölüm zarı at. 2 veya daha azında sizi ölümüne sokarlar. Aksi takdirde, zarın gösterdiği kadar seviye kaybedin."
+base.door.db29801c-5fe4-4a6c-9e41-35752d1a36bb.badstuff,"Sizi her yerde koklayabilir. Eğer kaybederseniz, kaçamazsınız; Hiçbir şey sana yardımcı olmayacak. Üç Level kaybetdersin."
+base.door.43b16c0e-49ac-4688-8db8-5737cbd50eef.badstuff,En yüksek Leveldaki oyuncu(lar)ın sizden herhangi bir Öğeyi (her biri) almasına izin vermenizi sağlayarak oyun dengesini alt üst eder.
+base.door.3fb5c60b-98a1-4775-b7b7-7c02910732f2.badstuff,"Bir kadın tarafından kıçınız tekmelenir. Maço munchkin gururunuz kayboldu. Sınıflarınızı kaybedin. Zaten sınıfınız yoksa, Üç Level kaybedersin."
+base.door.4d052f9a-2def-4ab8-b100-fde850b71507.badstuff,Üç Level kaybedersin.
+base.door.88716968-ead5-4473-9db2-85b9e9f69ef0.badstuff,En düşük levela sahip olan oyuncunun leveline düşersin
+base.door.6832d810-5af2-40f9-9877-0dfe91d808f2.badstuff,"Yüzünüzü emdiğinde, Başlığınız onunla gider. Giydiğiniz başlığı atın ve bir Level kaybedin."
+base.door.79d7e37c-ad44-460e-a1e9-e65bceeaed00.badstuff,Size bir ihtar verir. Sırayla sizden sonraki oyuncudan başlayarak diğer oyuncuların elinizden bir kart çekmesine izin verin. Kalanları kartlarınızı atın.
+base.door.ef2c8c7e-3043-46a6-ba47-c69ab67f7f2f.badstuff,Ya tüm elinizi atın ya da iki level kaybedin.
+base.door.739ed395-dbbd-4108-92c3-4cbfd317e9c5.badstuff,Mermi kusma saldırısı! Tüm elinizi atın.
+base.door.83ddfb20-2791-40bb-ba58-c051ae2eae9c.badstuff,"Normal, sıkıcı bir insan olursun. Oyunda herhangi bir Irk veya sınıf kartını atın."
+base.door.2f0b14f5-4aab-4855-b9c6-3a340349af8a.badstuff,Müzikleri gerçekten çok kötü. 2 Level kaybedersin.
+base.door.4a0ad1cf-01bf-423a-9328-e983d188032f.badstuff,Sizden iki öğe alır - sizden önceki ve sonraki oyuncular tarafından sırayla seçilir.
+base.door.f906cf16-5a1a-422c-b3fa-9ec583e54c4e.badstuff,Hazinenizi çalıyorlar. Bir zar atın ve elinizdeki o kadar çok öğeyi veya kartı kaybedin - seçim sizin.
+base.door.63df5d66-f885-4e54-94f7-2cf4e1a8b8d0.badstuff,"Tekmeler, ısırmalar ve berbat kokular. İki level kaybet."
+base.door.b9d66767-ceee-47bb-a428-691cb557c716.badstuff,Onlar ısırır! İki Level kaybedersin.
+base.door.cc935bfb-40a1-42c0-9c14-d89f91662971.badstuff,Tüm büyük eşyalarınızı bırakın.
+base.door.53f277b6-ed4b-498d-a582-a2d31c38bf52.badstuff,Çok acı verici gagalama. Bir Level kaybetdersin.
+base.door.93a5ec2f-ee7f-4654-a28d-fcf045fa0f97.badstuff,Fang kıçına işaret ediyor. İki Level kaybetdersin.
+base.door.25586aec-1ac3-4b4b-9c9a-bead276efac1.badstuff,Zırhı atın ve belin altına giyilen tüm itemler.
+base.door.96f29253-b3f9-483f-8028-2e96e2aa519f.badstuff,Giydiğiniz ayakları atın. Footgear'ınız yoksa bir Level kaybedin.
+base.door.da9241e2-ed86-4ee1-9a5b-637c95598d4d.badstuff,Sizi koltuk değneği ile vuruyor. Bir Level kaybedersin.
+base.door.e013dc7b-77a6-458c-af20-30de04317cc0.badstuff,Seni dövüyor. Bir Level kaybedersin.
+base.door.6bcc1629-aaea-409b-9dbc-7fe53576d6a6.badstuff,Hiçbiri. Kaçış otomatiktir.
+monster.thumbnail.rewardlevels,{0} Level
+monster.thumbnail.treasures,{0} hazineler
+monster.badstuff,<b> <i> Kötü şeyler: </i> </b> {0}
+base.treasure.809a7b83-272b-4f46-9e6e-8b7db792beb6.name,1.000 Altın 
+base.treasure.9ea3a17f-97f6-4aa7-a1c0-a287ce74e8f7.name,Karınca yuvası kaynatın
+base.treasure.4eef09b0-311c-4a21-bed3-b8b320618218.name,Yemekle rüşvet GM
+base.treasure.0e5c6c75-98ab-4bee-b3d8-98018b63a50d.name,Uygun ekleme hatası
+base.treasure.53998110-a846-46d9-8e0f-3986f5a3038d.name,Belirsiz kuralları çağırın
+base.treasure.22f8ccc0-072b-4c86-ab72-0d12bec6fe01.name,Hireling'i öldür
+base.treasure.11a0ccea-b9ac-4a91-a00e-a6a227da377c.name,Cesetleri Parçalayın
+base.treasure.b7770f9c-5ec6-40a3-813c-45ecec1758ca.name,Genel Sağlamlık İksiri
+base.treasure.9957a953-ba2b-4dd6-b74e-a74a0421c672.name,GM'de sızlanma
+base.treasure.377084fc-4baa-4efa-944b-fd090892c031.name,BadBoy Bandana
+base.treasure.eb7c59af-c029-4b93-bf65-1cca669e1d1a.name,Kıç tekmeleme botu
+base.treasure.1c542973-9445-452b-8bb9-c8de9c5e431b.name,Gerçekten hızlı koşma botları
+base.treasure.a93afb4f-fc2a-489b-9f94-e5ee450af48f.name,Yaylar ve kurdeleler
+base.treasure.f08f4fef-42c6-4b3e-b189-cc5dd37d00a8.name,Geniş kılıç
+base.treasure.57f25b88-39fc-448c-b345-bcd6f8cf18d9.name,Swashing Kalkanı
+base.treasure.0ec11cb6-b54b-4149-907f-c5c593de9f83.name,Kanlı Elektrikli Testere
+base.treasure.b25c2d56-b5b7-4f69-ad18-50218663e904.name,Barış Peyniri Rendesi
+base.treasure.d2e348c6-1d45-4de2-b4ba-f1b5299594f7.name,Belirsizlik Pelerini
+base.treasure.9b45cc0d-e712-40df-b3f6-f8367737a241.name,Cotion of Ponfusion
+base.treasure.b7b46f34-6a41-46ec-8931-df8080fc7e91.name,İhanet hançeri
+base.treasure.572c199d-5ef9-4e96-be7b-1878fc121faf.name,İkizini çağır
+base.treasure.b493204a-28ba-4ff5-b17f-22bf0e0241b1.name,Elektrikli radyoaktif asit iksir
+base.treasure.8ff92ccf-abcf-4190-b405-828766f21113.name,On bir ayak direği
+base.treasure.c6fe1a3b-7c10-4703-b4fb-497bb375389f.name,Alev zırhı
+base.treasure.f7cd336c-60b8-4e61-a4fe-cb1e6dce2c39.name,Yanan zehir iksiri
+base.treasure.bab711fd-f1c8-4524-8ab4-6ad7ad2a78c4.name,Tutkal şişesi
+base.treasure.fd24ac44-4967-4a73-b8aa-06079d2b0905.name,Donma Patlayıcı İksir
+base.treasure.c6a15483-66f3-4dbe-93be-cb1fb252e896.name,Dostluk İksiri
+base.treasure.89a4bc60-e43e-4145-a2af-a82600c9c261.name,Centilmenler Kulübü
+base.treasure.24b6690b-4ac7-4ad0-b8b2-14e93e59d441.name,Dizkapağı Çekici
+base.treasure.960594e9-a865-42ea-ba5a-461f8063681d.name,Cesaret Miğferi
+base.treasure.3dc3ee77-f659-4958-bbad-e96d2150b04e.name,Azgın kask
+base.treasure.d161d2e4-ac68-4c7b-9717-0622bc3bc9cb.name,Büyük kaya
+base.treasure.af149629-7862-46fe-ae34-032d32fe4426.name,Anlık duvar
+base.treasure.b2dd96da-6302-4d5d-8f43-e1fb2efb10e4.name,Görünmezlik iksiri
+base.treasure.5f2391a7-e51d-4404-a5ee-f2f9edaa6a2b.name,Cazibeli Dizlik
+base.treasure.67b44251-96b9-431a-ac9d-f733809e7097.name,Deri zırh
+base.treasure.4e5de80a-9f85-42e7-8cf7-9e226f499824.name,Limburger ve <br> Anchovy Sandviçi
+base.treasure.63f73b7d-acc0-4122-a612-4840df4d776a.name,Yüklü zar
+base.treasure.465e86f2-0caf-40cc-a01d-28009a2aaf4c.name,Keskinlik Topuzu
+base.treasure.c75e93c1-aa61-4183-b61b-4e6865310279.name,Sihirli Lamba
+base.treasure.4a31ba6f-b418-4549-91a2-2ff916079b76.name,Sihirli füze
+base.treasure.e712b749-e3ea-4d07-9169-72c33baea44f.name,Mithril zırhı
+base.treasure.38254fbc-79f9-48fc-ae10-ebe6ee0fbb4d.name,Tatsız Spor İçeceği
+base.treasure.a4b9df0f-71ad-4e20-9c61-cc2e6822d44d.name,Dev Kuvvetli Külotlu Çorap
+base.treasure.e0b9571f-352f-4728-b29c-eee1d4870e7b.name,Sivri Güç Şapkası
+base.treasure.0c2c5abd-aea7-418e-9e9e-a2e19fe3d2ef.name,Pollymorph Potion
+base.treasure.adb879cd-9d2b-408a-bac2-54a0bcad9e18.name,Potion of Halitosis
+base.treasure.89f5f35f-d81e-4a95-8cc5-a9c188522bce.name,Aptal cesareti iksiri
+base.treasure.ec6ba1d5-3ecf-40a2-82b1-592fc7799d5c.name,Güzel Balonlar
+base.treasure.f8f3606d-0532-46bf-aeba-060b370ca22a.name,Adaletsizliğin Mızrağı
+base.treasure.6677b88d-6f08-49e9-adc0-5125f4549f41.name,Sıçanlı Çubuk
+base.treasure.4a44eff7-1d4d-43bc-8994-9d9e0533cfaf.name,Gerçekten Etkileyici Ünvan
+base.treasure.7bc68e56-6b74-4c4e-80f1-d76e7456759b.name,Koruma sandaletleri
+base.treasure.40c01965-1169-4e05-a1c1-fc8719bb36bf.name,Her şeye Kadir Kalkan
+base.treasure.91af4f9b-1ab3-4e6d-a606-ee73d9511354.name,Kısa geniş zırh
+base.treasure.a7cfecc2-8f03-469c-86d1-eca7abd48563.name,Şarkı Söyleyen ve <br> Dans eden Kılıç
+base.treasure.8ca5bc1d-d31a-404f-8a2c-08d684acb661.name,Uyku iksiri
+base.treasure.e40ee953-081e-4b41-b095-0ca9ad681d8a.name,Sümüklü zırh
+base.treasure.f1a6aaf7-47ca-4952-b46b-b2e9bd5ae27a.name,Sinsi Şerefsiz kılıç
+base.treasure.61bb425e-f07a-4db1-87cc-2fc4b8802c51.name,Dikenli dizler
+base.treasure.9cc482d6-25ea-4502-bb10-12ed4deff95e.name,Napalm Personeli
+base.treasure.af9daf73-1d23-4ac1-b3c2-88bc10587054.name,Seyyar merdiven
+base.treasure.70b796bf-98e7-401d-b36f-e71399a3c403.name,İsviçre Ordusu Sırıklı Silahı
+base.treasure.93c7eb95-8657-4ae8-bdb7-21ab2029cbd0.name,Transfer iksiri
+base.treasure.d6b481cd-18fc-4de3-a5e3-95f0858bf832.name,Cazibe tubası
+base.treasure.c337a23b-3fa8-4295-96b7-e3706cdba824.name,Dowsing'in asası
+base.treasure.bd195b65-4e6a-4674-aa26-b6562b50a7d2.name,Dilek Yüzüğü
+base.treasure.bb8ffb65-35e4-4dcf-9860-af3bd016953b.name,Yuppie suyu
+base.treasure.f233b5ea-f811-4ea6-b518-cda41543639a.name,Hidreling
+base.treasure.a685c4ed-40a4-4cd8-a640-02aa65d2c768.name,Zula!
+base.treasure.d45aaf27-559f-488f-a477-d6858bb56fad.name,Bir Level çalarsın
+base.treasure.809a7b83-272b-4f46-9e6e-8b7db792beb6.text,Bir Level atlarsın
+base.treasure.9ea3a17f-97f6-4aa7-a1c0-a287ce74e8f7.text,Bir Level atlarsın
+base.treasure.4eef09b0-311c-4a21-bed3-b8b320618218.text,Bir Level atlarsın
+base.treasure.0e5c6c75-98ab-4bee-b3d8-98018b63a50d.text,Bir Level atlarsın
+base.treasure.53998110-a846-46d9-8e0f-3986f5a3038d.text,Bir Level atlarsın
+base.treasure.22f8ccc0-072b-4c86-ab72-0d12bec6fe01.text,Bir Level atlarsın <br> Bu kartı yalnızca bir işe alım oyunundaysa kullanabilirsiniz (ona sahip olursa olsun). Hireling'i atın.
+base.treasure.11a0ccea-b9ac-4a91-a00e-a6a227da377c.text,"Bir Level atlarsın <br> Bu kart sadece savaştan sonra oynanabilir, ancak savaşınız olması gerekmez."
+base.treasure.b7770f9c-5ec6-40a3-813c-45ecec1758ca.text,Bir Level atlarsın
+base.treasure.9957a953-ba2b-4dd6-b74e-a74a0421c672.text,Bir Level atlarsın <br> En yüksek seviyedeki bir oyuncuysan yada bunu başka bir oyuncu ile paylaşıyorsan kullanamazsın.
+base.treasure.1c542973-9445-452b-8bb9-c8de9c5e431b.text,Kaçış zarınıza +2 ekler.
+base.treasure.9b45cc0d-e712-40df-b3f6-f8367737a241.text,Herhangi bir savaş sırasında kullanın.Seçilen tarafa +3 güç ekler. Sadece bir kez kullanılabilir.
+base.treasure.572c199d-5ef9-4e96-be7b-1878fc121faf.text,"Yanınızda savaşan tam kopyayı çağırır, böylece savaş gücünüzü ikiye katlarsınız. Doppleganger'ı yalnızca savaştaki tek oyuncu olduğunuzda kullanabilirsiniz. Sadece bir kez kullanılabilir."
+base.treasure.b493204a-28ba-4ff5-b17f-22bf0e0241b1.text,Herhangi bir savaş sırasında kullanın. Seçilen tarafa  +5 güç ekler. Sadece bir kez kullanılabilir.
+base.treasure.f7cd336c-60b8-4e61-a4fe-cb1e6dce2c39.text,Herhangi bir savaş sırasında kullanın. Seçilen tarafa  +3 güç ekler. Sadece bir kez kullanılabilir.
+base.treasure.bab711fd-f1c8-4524-8ab4-6ad7ad2a78c4.text,Birisi herhangi bir nedenle bir savaştan başarılı bir şekilde kaçtığında kullanın. Kaçışlarını yeniden yuvarlamalıdırlar (ilk kez otomatik olsa bile). Sadece bir kez kullanılabilir.
+base.treasure.fd24ac44-4967-4a73-b8aa-06079d2b0905.text,Herhangi bir savaş sırasında kullanın. Seçilen tarafa  +3 güç ekler. Sadece bir kez kullanılabilir.
+base.treasure.c6a15483-66f3-4dbe-93be-cb1fb252e896.text,"Herhangi bir savaş sırasında kullanın. Savaştaki tüm canavarları atın. Hiçbir hazine kazanılmaz, ancak oyuncu odayı yağmalayabilir. Sadece bir kez kullanılabilir."
+base.treasure.3dc3ee77-f659-4958-bbad-e96d2150b04e.text,(Elfler için +3)
+base.treasure.af149629-7862-46fe-ae34-032d32fe4426.text,Herhangi bir dövüşten bir veya iki oyuncu için otomatik kaçışa izin verir. Sadece bir kez kullanılabilir.
+base.treasure.b2dd96da-6302-4d5d-8f43-e1fb2efb10e4.text,Kaçışınız başarısız olduğunda kullanın. Otomatik olarak kaçarsınız. Sadece bir kez kullanılabilir.
+base.treasure.5f2391a7-e51d-4404-a5ee-f2f9edaa6a2b.text,"Sizin levelinizden daha yüksek bir oyuncu, bir canavara karşı yardım talebinizi reddedemez, hatta bir ödül isteyemez. Yardımcınızın Kneepads tarafından zorlandığı için Level kazanamazsınız."
+base.treasure.63f73b7d-acc0-4122-a612-4840df4d776a.text,Herhangi bir nedenle zarı attıktan sonra oynayın. Seçtiğiniz sayı üstte olacak şekilde zarı çevirin. Bu senin yeni zarın.<br>Yalnızca bir kez kullanılabilir.
+base.treasure.c75e93c1-aa61-4183-b61b-4e6865310279.text,Lambayı yalnızca kendi turunuzda kullanabilirsin. Canavarı ortadan kaybeder ve canavarın hazinesini kazanırsınız ancak level kazanamazsın. Sadece bir kez kullanılabilir.
+base.treasure.4a31ba6f-b418-4549-91a2-2ff916079b76.text,Herhangi bir savaş sırasında kullanın.Seçilen tarafa  +5 güç ekler. Sadece bir kez kullanılabilir.
+base.treasure.38254fbc-79f9-48fc-ae10-ebe6ee0fbb4d.text,Herhangi bir savaş sırasında kullanın. Seçilen tarafa  +2 güç ekler. Sadece bir kez kullanılabilir.
+base.treasure.0c2c5abd-aea7-418e-9e9e-a2e19fe3d2ef.text,"Herhangi bir savaş sırasında kullanın. Herhangi bir canavarı, hazinesini geride bırakarak uçan bir papağan haline getirir. Sadece bir kez kullanılabilir."
+base.treasure.adb879cd-9d2b-408a-bac2-54a0bcad9e18.text,Herhangi bir savaş sırasında kullanın. Seçilen tarafa  +2 güç ekler veya <b> yüzen burnu anında öldürür </b>. Sadece bir kez kullanılabilir.
+base.treasure.89f5f35f-d81e-4a95-8cc5-a9c188522bce.text,Herhangi bir savaş sırasında kullanın. Seçilen tarafa  +2 güç ekler. Sadece bir kez kullanılabilir.
+base.treasure.ec6ba1d5-3ecf-40a2-82b1-592fc7799d5c.text,Dikkat dağıtmak için herhangi bir savaş sırasında oynayın. Seçilen tarafa  +5 güç ekler. Sadece bir kez kullanılabilir.
+base.treasure.6677b88d-6f08-49e9-adc0-5125f4549f41.text,"Hey, hiç yoktan iyidir! <br> Seviye 8 veya altındaki herhangi bir canavardan otomatik olarak kaçmak için bu Itemi taşıyor olsanız bile atabilirsiniz."
+base.treasure.7bc68e56-6b74-4c4e-80f1-d76e7456759b.text,Kapıyı açarken çektiğiniz lanet kartların hiçbir etkisi yoktur. (Diğer oyuncular tarafından yapılan lanetler sizi hala etkileyecektir.)
+base.treasure.8ca5bc1d-d31a-404f-8a2c-08d684acb661.text,Herhangi bir savaş sırasında kullanın. Seçilen tarafa  +2 güç ekler. Sadece bir kez kullanılabilir.
+base.treasure.93c7eb95-8657-4ae8-bdb7-21ab2029cbd0.text,"Herhangi bir savaş sırasında oynayın. Başka herhangi bir oyuncu (sizin seçiminiz) canavar (lar) ile savaşır, normal yardım isteyebilir ve kazanırsa hazineyi ve Levelleri alır. Orijinal oyuncu daha sonra sırasına devam eder ve savaşın kazanılıp kazanılmadığını veya kaybedilip kaybetmediğini odaya yağabilir. Sadece bir kez kullanılabilir."
+base.treasure.d6b481cd-18fc-4de3-a5e3-95f0858bf832.text,"Bu melodik enstrüman düşmanlarınızı büyülüyor ve kaçış zarınız için +3 veriyor. Savaştan başarılı bir şekilde kaçarsanız, çıkış yolunda bir hazine kazanırsın."
+base.treasure.c337a23b-3fa8-4295-96b7-e3706cdba824.text,İstediğiniz herhangi bir kartı bulmak için ıskartaları gözden geçirin. O kartı al ve bunu at. Yalnızca bir kez kullanılabilir.
+base.treasure.bd195b65-4e6a-4674-aa26-b6562b50a7d2.text,Herhangi bir laneti iptal eder. İstediğiniz zaman oynayın. Sadece bir kez kullanılabilir.
+base.treasure.bb8ffb65-35e4-4dcf-9860-af3bd016953b.text,Herhangi bir savaş sırasında kullanın. Sadece elflere yardım etmek için. Savaştaki her elf için +2. Sadece bir kez kullanılabilir.
+base.treasure.f233b5ea-f811-4ea6-b518-cda41543639a.text,"Ekstra 1 item taşımanıza olanak sağlar. Bu kartı kaybederseniz, item de gider. <br> Herhangi bir canavardan kaçmak için kullanabilirsin."
+base.treasure.a685c4ed-40a4-4cd8-a640-02aa65d2c768.text,Hemen üç hazine kartı çek. Bu kartı elinizden oynarsanız yüzleri kapalı yerden alırsanız yüzleri açık çekersiniz.
+base.treasure.d45aaf27-559f-488f-a477-d6858bb56fad.text,Levelini çalmak istediğiniz oyuncuyu seçin. Bir level kazanırsın. Seçtiğin oyuncu bir level kaybeder.
+kin.item.requirements.class.cleric,Sadece din adamı tarafından kullanılabilir
+kin.item.requirements.class.thief,Sadece hırsız tarafından kullanılabilir
+kin.item.requirements.class.warrior,Sadece Savaşçı tarafından kullanılabilir
+kin.item.requirements.class.wizard,Sadece büyücü tarafından kullanılabilir
+kin.item.requirements.race.human,Sadece insan tarafından kullanılabilir
+kin.item.requirements.race.dwarf,Sadece cüce tarafından kullanılabilir
+kin.item.requirements.race.elf,Yalnızca Elf tarafından kullanılabilir
+kin.item.requirements.race.halfling,Yalnızca yarı yarıya kullanılabilir
+kin.item.requirements.gender.male,Sadece erkekler tarafından kullanılabilir
+kin.item.requirements.gender.female,Sadece kadınlar tarafından kullanılabilir
+kin.item.requirements.notclass.cleric,Din adamı tarafından kullanılamaz
+kin.item.requirements.notclass.thief,Hırsız tarafından kullanılamaz
+kin.item.requirements.notclass.warrior,Savaşçı tarafından kullanılamaz
+kin.item.requirements.notclass.wizard,Büyücü tarafından kullanılamaz
+kin.item.requirements.notrace.human,İnsan tarafından kullanılamaz
+kin.item.requirements.notrace.dwarf,Cüce tarafından kullanılamaz
+kin.item.requirements.notrace.elf,Elf tarafından kullanılamaz
+kin.item.requirements.notrace.halfling,Halfling tarafından kullanılamaz
+rules.askingforhelp.1,Yardım iste
+rules.askingforhelp.2,"Kendi başınıza bir savaş kazanamıyorsanız, başka bir oyuncudan size yardım etmesini isteyebilirsiniz. Eğer reddederlerse, hepsi sizi geri çevirene veya birisi yardım edene kadar başka bir oyuncu sorabilirsiniz. Sadece bir oyuncu size yardımcı olabilir ve savaş gücünü sizinkine ekleyebilir. Herkes savaşınızı etkilemek için kart oynayabilir! <br> <br> Muhtemelen yardım etmek için birine rüşvet vermeniz gerekecek. Yardımcınıza şu anda taşıdığınız herhangi bir ürün veya canavarın sahip olduğu herhangi bir hazine kartını sunabilirsiniz. Canavarın hazinesinin bir kısmını sunarsanız, önce seçip seçmediklerini ya da önce seçip seçmediğinizi kabul etmelisiniz. Örneğin, bir savaşçı size yardımcı olursa, toplamınız canavarla bağlarsa kazanırsınız ve yardımcısı, savaş güçlerine eklemek için kartları kızdırabilir ve atabilir (ancak savaş başına sadece bir kez, canavar başına bir kez değil). Wannabe vampiriyle karşılaşıyorsanız ve bir din adamı size yardımcı olursa, otomatik olarak kovalayabilirler. Ancak, saçma balçıkla karşılaşıyorsanız ve bir elf size yardımcı olursa, canavarın savaş gücü 4 oranında artırılır (siz de bir elf ve canavarın savaş gücü zaten artmış değilse). <br> <br> Birisi Canavarı öldürmenize, atmanıza, hazineleri çizmenize (aşağıya bakınız) ve canavar kartındaki özel talimatları izlemenize yardımcı olur. Her öldürülen canavar için Level atlıyorsunuz. Yardımcınız herhangi bir Levelye çıkmaz. . . Yardımcı bir elf değilse, bu durumda öldürülen her canavar için bir Level kazanırlar. Hazine kartları daha sonra ulaştığınız anlaşmaya göre dağıtılır. Kazanmak için savaşıyorsanız bu yetenekler işe yaramaz - ve birisini yardım etmeye zorlarsanız ve daha sonra kavga galibiyet için bir olursa, yardımcınız ceza olmadan geri çekilir. Ancak, birisine gönüllü olarak yardım ederseniz, sadece oyunu kazanmak üzere oldukları için geri çekilmezsiniz - bu yüzden dikkat edin!"
+rules.askingforhelp.3,Kaçmak
+rules.askingforhelp.4,"Kimse sana yardım etmeyecekse. . . Ya da birisi yardım etmeye çalışırsa ve parti üyeleriniz müdahale ederse, ikiniz hala kazanamazsınız. . . Kaçmalısın. Herhangi bir Level veya hazine alamazsınız. Odayı yağmalamıyorsun bile. Ve her zaman zarar görmeden kaçmazsınız. . . 5 veya daha fazla kaçarsınız. Bazı sınıf ve ırk yetenekleri ve bazı hazineler tüm canavarlardan kaçmayı kolaylaştırır veya zorlaştırır. Ve bazı canavarlar size sadece o canavar için rulonuza bir bonus veya ceza verir. <br> <br> Bir canavardan kaçamazsanız, kartında açıklandığı gibi sizin için kötü şeyler yapar. Birden fazla canavardan kaçıyorsanız, her birinden kaçmak için ayrı ayrı yuvarlanırsınız, seçtiğiniz herhangi bir sırayla ve sizi yakaladığı anda sizi yakalayan her birinden kötü şeyler yaşarsınız. İki oyuncu işbirliği yapıyor ve yine de canavar (lar) ı yenemezse, ikisi de kaçmalıdır. Her canavar için ayrı olarak yuvarlanırlar. Canavar (lar) ikisini de yakalayabilir. Tüm kaçış rulolarını çözdükten sonra, canavar (lar) ı atın."
+rules.characterstats.1,Karakter İstatistikleri
+rules.characterstats.2,"Her karakter temel olarak üç istatistikle silah, zırh ve sihirli itemlerden oluşan bir koleksiyondur: Level, ırk ve sınıf. Kurallar veya kartlar Levelnize, büyük harfle yazıldığında, bu sayı anlamına gelir. Bir canavarı öldürdüğünüzde veya bir kart yaptığınızı söylediğinde bir Level kazanırsınız. Ayrıca satın almak için eşyalar satabilirsiniz (itemlere bakın). Levelniz asla altına giremez. Ancak, bir lanetten vurulursanız veya başka bir ceza çekerseniz, savaş gücünüz negatif olabilir. <br> <br > Sınıf: Temel sette karakterler savaşçılar, büyücülar, hırsızlar veya din adamları olabilir. Önünüzde sınıf kartınız yoksa, sınıfınız yok. Evet, biliyorum, bunu zaten yaptık. Her sınıfın kartlarda gösterilen özel yetenekleri vardır. Kartını önünüzde oynadığınız anda bir sınıfın yeteneklerini kazanırsınız ve o kartı atar atmaz kaybedersiniz. Bazı sınıf yetenekleri atışlarla güçlendirilir. Yetenek aksi belirtilmedikçe, özel bir yeteneğe güç sağlamak için herhangi bir kartı oynatabilirsiniz veya elinizde atabilirsiniz. Yeteneklerin ne zaman kullanılabileceği için sınıf kartlarına bakın. Sıranız sırasında veya bir atlama pencereniz olduğunda, savaş sırasında bile bir sınıf kartı atabilirsiniz: “Artık bir büyücü olmak istemiyorum.” Bir sınıf kartı attığınızda, başka bir sınıf kartı oynayana kadar sınıfsız olursunuz. Süper Munchkin kartını oynamadığınız sürece aynı anda birden fazla sınıfa ait olmayabilirsiniz. Önünüzde Irk kartınız yoksa, insansınız. İnsanların özel bir yetenekleri yoktur. Yukarıdaki sınıflar için kurallar, Irklar için de geçerlidir. Yarı türlü kartı oynamadığınız sürece aynı anda birden fazla Irka ait olmayabilirsiniz."
+rules.characterstats.3,Süper Munchkin ve Yarı Irk
+rules.characterstats.4,"Bu kartlar, uygun bir kartınız (Süper Munchkin için sınıf, yarım cins için Irk) eklemek için bir sınıf veya Irk oynamanın yasal olduğunda oynanabilir. Aynı sınıf veya Irk kartından birden fazlasını aynı anda oyunda alamazsınız. itemler, bu sınıfa karşı ceza veren canavarlar bu cezalara maruz kalır) ve dezavantajların hiçbiri (o sınıfa yasaklanan eşyaları donatabilirsiniz ve canavarlar sınıfınız nedeniyle bonus almaz). Sınıfın maliyeti olan bir yeteneği varsa, yine de ödemelisiniz - o kadar süper değilsiniz! İki sınıfınız olurken süper munchkin oynarsanız, her iki sınıfın tüm normal avantajlarına ve dezavantajlarına sahip olursunuz. (Yukarıdakilerin tümü de yarı tür, sadece Irklar için geçerlidir.)"
+rules.death.1,Ölüm
+rules.death.2,"Eğer ölürsen, tüm eşyalarını kaybedersiniz. Sınıflarınızı, Irklarınızı ve Level (ve öldüğünüzde sizi etkileyen lanetler) tutuyorsunuz - yeni karakteriniz tıpkı eskisine benzeyecektir. Yarı tür veya süper munchkin varsa, bunları da saklayın. Öldükten sonra, kalan canavarlardan kaçmak zorunda değilsiniz. En yüksek Levelye sahip oyuncudan başlayarak, herkes bir kart seçer. Herkes bir kart aldığında, gerisini atın. Cesaretiniz kartlar biterse, sert. Yağma kartları oyuncuların ellerine geçer. Ölü karakterler herhangi bir nedenle kart alamaz, hatta hayırseverlik bile yapamaz ve oyunu Level atlayamaz veya kazanamaz. ve sınıf veya Irk yetenekleri. . . Ancak, diğer oyunculardan yardım veya hediye almadığınız sürece kartınız yok. Bir sonraki dönüşünüzde, her güverteden dört yüz aşağı kartı çizersiniz ve tıpkı oyuna başladığınızda olduğu gibi istediğiniz yasal kartları oynarsınız. O zaman sıranız normal şekilde devam eder."
+rules.monsters.1,Canavarlar
+rules.monsters.2,"Yüze çekilirse, kapı aşamasını açma sırasında, canavarlar hemen onları çizen kişiye saldırır. Sorun aramak için kendi dönüşü ya da dolaşan canavar kartı ile başka bir oyuncunun mücadelesine katılmak için oynadı. (Bkz. Birden fazla canavarla mücadele) <br> <br> Her canavar kartı, karttaki isim çoğul olsa bile tek bir canavardır."
+rules.monsters.3,Canavar geliştiriciler
+rules.monsters.4,"Canavar arttırıcılar olarak adlandırılan bazı kartlar, bireysel canavarların savaş gücünü yükseltir veya düşürür. Ayrıca canavarların değer verdiği hazinelerin sayısını da etkiler. Canavar arttırıcılar herhangi bir savaş sırasında herhangi bir oyuncu tarafından oynanabilir. <br> <br> <br> Tek bir canavardaki tüm güçlendiriciler bir araya gelir. Bir savaşta birden fazla canavar varsa, her bir geliştiriciyi oynayan kişi hangi canavarın uygulandığını seçmelidir. <br> <br> <br> İstisna: Bir canavarı geliştiren herhangi bir şey de eşini geliştirir. . . Eski, öfkeli ve eş tek bir canavarda oynanırsa, herhangi bir sırayla, eski öfkeli bir canavar ve eski öfkeli eşiyle karşı karşıya kalırsınız. İyi şanlar . . ."
+rules.monsters.5,Birden fazla canavarla savaşmak
+rules.monsters.6,"Bazı kartlar (dolaşan canavar gibi) rakiplerinizin savaşa katılmaları için diğer canavarları göndermelerine izin verir. Birleşik savaş güçlerini yenmelisiniz. Sizi sadece Levelnizle savaşmaya zorlamak gibi özel yetenekler tüm dövüşe başvurun. Doğru kartlarınız varsa, bir canavarı savaştan ortadan kaldırabilir ve normal olarak diğer (ler) ile savaşabilirsiniz, ancak biriyle savaşmayı ve diğerinden kaçmayı seçemezsiniz. Bir canavarı ortadan kaldırırsanız, ancak diğerinden koşarsanız, herhangi bir Level veya hazine alamazsınız!"
+rules.monsters.7,Ölümsüz canavarlar
+rules.monsters.8,"Bazı canavarlar ölümsüz etiketlenir. Gezici bir canavar kartı kullanmadan, diğer ölümsüz yardım etmek için elinizden herhangi bir ölümsüz canavar oynayabilirsiniz. Bir canavar ölümsüz yapmak için kullanılabilecek bir kartınız varsa, bu kuralı kullanmak için onu açık olmayan bir canavarla oynayabilirsiniz."
+rules.overview.1,Genel bakış
+rules.overview.2,Karakter yaratma
+rules.overview.3,"Herkes Sınıf Olmadan Level 1 insan olarak başlar. (Heh, heh.) Munchkin karakterleri erkek ya da kadın olabilir. Başlangıç ​​oyuncusunun sırasından önce, her oyuncunun elinden Irk, sınıf ve ürün kartları oynama fırsatı vardır."
+rules.overview.4,Oyunun Hedefi
+rules.overview.5,"Level 10'a ulaşan ilk oyuncu kazanır. . . Ancak, bir kart özellikle başka bir yol kazanmanıza izin vermedikçe, bir canavarı öldürerek 10. Levelye ulaşmalısınız."
+rules.overview.6,Aşamaları çevir
+rules.overview.7,"Sıranız önceki oyuncunun dönüşü biter bitmez başlar. Kartlarınız istediğiniz şekilde düzenlendiğinde, Faz 1'e gidin. Eğer bir canavarsa, onunla savaşmalısınız. Kart bir lanet ise hemen sizin için geçerlidir ve atılır (kalıcı bir etkisi yoksa veya kartı yaklaşan bir etkiyi hatırlatırsanız). Başka bir kart çizerseniz, elinize koyabilir veya hemen oynatabilirsiniz."
+rules.overview.8,"(2) Sorun arayın/odayı yağmalayın <br> <br> Aşama 1'de bir canavarla savaştıysanız, bu aşamayı atlayın ve 3'e gidin. Kapıyı ilk açtığınızda bir canavar çizmediyseniz, İki seçenek: ya sorun arayın ya da odayı yağmalayın. Yardım almaya güvenebileceğinizden emin değilseniz, işleyemeyeceğiniz bir canavar oynamayın! senin elin."
+rules.overview.9,"(3) Charity <br> <br> Elinizde beşten fazla kart varsa, sizi beş veya altına almak için yeterli kart oynamalısınız - örneğin, lanetler oynayabilir, elinizden eşya satabilir veya oynayabilirsiniz Masaya itemler. Elinizi beş karta azaltamıyorsanız veya istemiyorsanız, aşırı kartları en düşük Levelye sahip oyuncuya vermelisiniz. Oyuncular en düşük Levelye bağlıysa, kartlar mümkün olduğunca eşit olarak bölünür, ancak daha büyük artıkları alan size kalmıştır. En düşük veya en düşük için bağlanmışsanız, fazlalığı atın. Sadaka biter bitmez, bir sonraki oyuncunun sırası başlar."
+rules.overview.10,Ne zaman harekete geçebilirsin
+rules.overview.11,Bu eylemleri sıranızda veya bir atlama pencereniz olduğunda istediğiniz zaman gerçekleştirebilirsiniz: <br> <br> • Bir sınıf veya Irkı atın. • Bir lanet oynayın.
+rules.overview.12,"Bu eylemleri, sıranızda veya bir atlama pencereniz olduğunda, savaşta olmadığınız sürece herhangi bir zamanda gerçekleştirebilirsiniz: <br> <br> • Bir itemi başka bir oyuncuyla takas (diğer oyuncu olmayabilir <br> • Hangi itemleri donattığınız eşyaları değiştirin."
+rules.overview.13,"Bu eylemleri kendi sıranızda gerçekleştirebilirsiniz: <br> <br> • Yeni bir sınıf veya Irk kartı (istediğiniz zaman) oynayın. <br> • Bir ürün oynatın (çoğu item savaş sırasında oynanamaz, ancak bazı tek atış itemler bunu söylerse yapabilir)"
+rules.treasures.1,Hazineler
+rules.treasures.2,"Hazine kartları arasında kalıcı ve “tek atış” kartlar bulunur. Herhangi bir hazine kartı, alır almaz veya savaş dışında herhangi bir zamanda kendi sıranızda oynatılabilir (aşağıdaki kurallar veya kartın kendisi aksini söylemedikçe)."
+rules.treasures.3,itemler
+rules.treasures.4,"Çoğu hazine üründür. itemlerin altın parça değeri vardır. Oyunda sahip olduğunuz tüm itemler “taşınır” olarak kabul edilir. Aslında size bonus veren itemler “donanımlı”. Bir savaş sırasında veya kaçarken itemlerinizin durumunu değiştiremezsiniz. Zırh, bir çift ayak güce ve iki “1 el” itemsi (veya bir “2 el” itemsi). . . Hireling veya hile! gibi bu sınırları göz ardı etmenizi sağlayan bir kartınız yoksa veya kartlardan biri aksini söylemedikçe. Örneğin, iki başlık kartı taşıyorsanız, bunlardan sadece birini bir seferde donatabilirsiniz. Bonusu sadece şu anda bir din adamı olan biri için önemlidir. . Belirli sınıf ve Irk yeteneklerini güçlendirmek için itemleri atabilirsiniz. Ve bir lanet veya bir canavarın kötü eşyaları sizi bir şeyden kurtulmaya zorlayabilir! (Büyük işaretli olmayan herhangi bir item küçük kabul edilir.) Bir diğerini oynamak için büyük bir eşya atamazsınız; İlk eşyayı satmalı, takas etmeli, bir lanete veya kötü şeylere kaybetmeli veya bir sınıf veya Irk yeteneğine güç vermelidir. cüce Irkı) ve bu yeteneği kaybedersiniz, sorunu hemen düzeltmeli veya büyük bir eşya hariç hepsinden kurtulmalısınız. Sıranız varsa ve savaşta değilseniz, fazla büyük eşyaları satabilirsiniz (satmak için en az 1.000 altın parçanız olduğu sürece). Aksi takdirde, onları taşıyabilecek en düşük Levelli oyunculara vermelisiniz! Herhangi bir büyük ürün bırakılırsa, onları atın. Sadece oyunda ticaret yapabilirsiniz - elinizden değil. Sizin veya ticaret ortağınızın savaşta olduğunuz zaman dışında herhangi bir zamanda ticaret yapabilirsiniz - aslında ticaret için en iyi zaman sizin sıranız olmadığı zamandır. Bir ticarette aldığınız herhangi bir ürün oyunda kalmalıdır. Ayrıca, diğer oyunculara bu dönüşte yardım sunmamak için rüşvet vermek için ticaret olmadan eşyaları da verebilirsiniz. <br> <br> Leveller için eşya satmak: Savaş veya kaçma hariç, sıranızdaki herhangi bir noktada, toplam en az 1.000 altın parçaya değecek eşyaları atabilir ve hemen bir Levelye çıkabilirsiniz. (Örneğin) 1.100 altın parçasını atarsanız, değişiklik yapmazsınız. Ancak 2.000 değerini yönetebiliyorsanız, aynı anda iki Levelye çıkabilirsiniz vb. Elinizden ve taşıdığınız eşyalardan eşya satabilirsiniz. Level 10'a gitmek için ürün satamazsınız."
+rules.treasures.5,"""Tek atış"" hazineler"
+rules.treasures.6,"“Sadece bir kez kullanılabilir” yazan bir hazine kartı “tek atış” hazine olarak adlandırılır. Bunların çoğu savaş sırasında Munchkins veya Canavarları güçlendirmek için kullanılır ve elinizden veya taşıma alanınızdan oynanabilir. Tek seferlik itemler kullanımdan sonra atılır. Altın parça değeri olan tek atış itemler, diğer itemler gibi Leveller için satılabilir."
+rules.treasures.7,Diğer Hazineler
+rules.treasures.8,"Diğer hazine kartları (bir Level kartlar gibi) item değildir. Bu kartların çoğu ne zaman oynanabileceklerini ve oyunda kalıp kalmadıklarını veya atılmalarını söylüyor. <br> <br> <br> Birkaç özel örnek: <br> <br> Sıranızda veya bir atlama pencereniz olduğunda herhangi bir zamanda kendiniz veya başka bir oyuncu üzerinde oynanabilir. Oynadıktan sonra onları atın. İstisna: Bir oyuncuya kazanan Levelini vermek için bir Level kartını oynayamazsınız! Ancak, savaştayken taşıyacak bir eşya veremezsiniz."
+rules.variants.1,Varyantlar
+rules.variants.2,Bir oyun oluştururken aşağıdaki varyant kuralları açılıp kapatılabilir.
+rules.variants.3,Daha hızlı oyun kuralları
+rules.variants.4,"Daha hızlı bir oyun için, Dinle at the Door adlı bir “Faz 0” ekleyebilirsiniz. Başka bir şey yapmadan önce sıranızın başlangıcında, oynayabileceğiniz ya da oynayabileceğiniz bir yüz aşağı kapı kartı çizin. Ardından kartlar düzenleyin ve kapıyı normal şekilde açın. Odayı yağmalıyorsanız, bir kapı değil, yüz aşağı bir hazine çizin."
+rules.variants.7,Cinsiyetten tarafsız
+rules.variants.8,Cinsiyet Önemli Kartlar oyundan kaldırılır.
+rules.combatoverview.1,Savaş Genel Bakış
+rules.combatoverview.2,"Bir canavarla savaşmak için savaş gücünü sizinkiyle karşılaştırın. Savaş gücü, Levelnin toplamı ve maddeler ve diğer kartlar tarafından verilen tüm değiştiricilerdir - pozitif veya negatiftir. Canavarın savaş gücü sizinkine eşit veya daha fazlaysa, savaşı kaybedersiniz ve kaçmanız gerekir. Savaş gücünüz canavardan daha fazla ise - canavarların bağ kazandığını unutmayın! - Öldürüyorsunuz ve bir Levelye çıkıyorsunuz (bazı büyük canavarlar için iki Level). Ayrıca kartında gösterilen hazinelerin sayısını da alırsınız. <br> <br> Bazen bir kart canavardan öldürmeden kurtulmanıza izin verir. Bu hala “kazanıyor”, ama bir Levelye sahip değilsiniz. Yetenek aksini söylemedikçe, hazineleri de almazsınız. Son canavar bir savaştan çıkarılırsa, anında sona erer. Bazı kapı kartları da canavar güçlendiriciler gibi bir savaşta oynanabilir."
+rules.combatoverview.3,Savaşa müdahale etmek
+rules.combatoverview.4,"<br> <br> • Tek seferlik bir kart kullanın. Yanlarını güçlendirmek için tek atış kullanarak başka bir oyuncuya yardım edebilirsiniz. Tabii ki, bunun yerine canavarı “yanlışlıkla” güçlendirebilirsiniz. . . <br> • Bir canavar geliştirici oynayın. Bu kartlar (genellikle) bir canavarı daha güçlü hale getirir. . . Ve ona daha fazla hazine verin. Bunları kendi savaşlarınız sırasında veya başkasının savaşı sırasında oynayabilirsiniz. Savaşta oyuncu, eğer bir hırsızsanız. <br> • Lanet olsun, bir lanet kartınız varsa."
+rules.curses.1,Lanet
+rules.curses.2,"Kick sırasında yüz yukarı çizilirse, kapı aşamasını açarsa, onları çizen kişiye lanet kartlar uygulanır. Odayı yağmalayarak gibi başka bir şekilde edinilirse, lanet kartlar elinize girer ve sıranızda veya bir atlama pencereniz olduğunda herhangi bir zamanda herhangi bir oyuncu üzerinde oynanabilir. <br> <br> Genellikle,, genellikle,, Bir lanet kurbanını derhal etkiler (eğer yapabilirse) ve daha sonra atılır. Ancak, bazı lanetler daha sonra oyunda bir ceza verir veya sürekli bir etkiye sahiptir. Bu lanetler lanetten kurtuluncaya kadar oyunda kalır veya ceza yürürlüğe girer. <br> <br> Not: Eğer birisi savaştayken size “bir sonraki savaşınız” laneti oynarsa, bu savaşta sayılır! Aynı şey sizin sıranızda oynanan bir “bir sonraki dönüşünüz” laneti için de geçerlidir."
+kin.setup.character.raceandclass,İlk Irk ve/veya sınıf mı seçin?
+kin.setup.character.raceandclass.opponent,Rakipler karakterlerini yaratıyor
+kin.setup.character.items,İlk donanımlı itemler seçilsin mi?
+kin.setup.character.items.opponent,Rakipler karakterlerini yaratıyor
+kin.setup.character.opponent,Rakipler karakterlerini yaratıyor
+kin.jumpin,Bir harekete geçmek ister misiniz?
+kin.jumpin.door,[Adı] kapıyı açmadan önce bir harekete geçin mi?
+kin.jumpin.attack,[name] canavar (lar) ı yenmeden önce bir harekete geçin mi?
+kin.jumpin.beginpursuit,Canavar [isim] arayışına başlamadan önce harekete geçin mi?
+kin.jumpin.endofturn,[name] sıralarını tamamladıktan sonra bir harekete geçin mi?
+kin.jumpin.endofturn.opponent,"Rakip, dönüş bitmeden hangi eylemin yapılacağına karar veriyor."
+kin.jumpin.runaway,Kaçmak için [isim] rulo yapmadan önce bir işlem yapın?
+kin.jumpin.postrunaway,Kaçmak için [isim] yuvarlandıktan sonra harekete geçin mi?
+kin.jumpin.postcombat,[İsim] savaşı tamamladıktan sonra bir işlem yapın?
+kin.jumpin.precurse,[Adı] lanetlenmeden önce bir işlem yapın?
+kin.jumpin.abilities,Bir şey yap?
+kin.playerturn.begin,Kapıyı açmadan önce harekete geçin mi?
+kin.playerturn.begin.opponent,Bir rakip kapıyı açmadan önce eylemleri düşünüyor.
+kin.playerturn.lookfortrouble,Savaşmak istediğin canavarı elinden çal.
+kin.playerturn.draw,Kapıyı tekmele
+kin.playerturn.lookorloot,Sorun arayın veya odayı yağmalayın
+kin.playerturn.end,Sırasında bitirmeden önce harekete geçin mi?
+kin.playerturn.end.opponent,Bir rakip sıralarını bitirmeden önce eylemleri düşünüyor.
+kin.core.play.class,Sınıf Kartı Oyna
+kin.core.play.curse,Lanet Kartı Oyna
+kin.core.play.item,Item Kartı Oyna
+kin.core.play.race,Irk Kartı Oyna
+kin.core.play.special,Özel Kart Oyna
+kin.core.play.monsterenhancer,Canavar geliştirici mi oynuyorsunuz?
+kin.core.play.combatoneshot,Hangi tarafa güç verileceğini seçin.
+kin.playerturn.charity.lastchance,Kartlarını dağıtmadan önce kullanmak istermisin?
+kin.playerturn.charity.discard,Atmak için [X] kart (lar) ı seçin.
+kin.playerturn.charity.give,Vermek için [X] kart (lar) ı seçin.
+kin.playerturn.charity.giveplayer,Bağış yapmak için oyuncu seçin.
+kin.draw.play,Seçtiğin kart (lar) mı oynamak ister misin?
+match.actions.opendoor,Açık kapı
+match.actions.jumpin,Katıl
+kin.combat.begin,Savaş
+kin.combat.begin.opponent,Rakip savaşta
+match.actions.lootroom,Odayı yağmalayın
+match.actions.lookfortrouble,Sorun arayın
+kin.prompts.givelevelup,Bir Level ver?
+kin.core.play.goupalevel,Bir Level vermek istediğiniz oyuncuyu seçin
+kin.base.door.cleric.turning,Her biri +3 Güç için atılacak [X] kart seçin.
+kin.base.door.cleric.resurrection.discard,Yeniden canlanmak için atılacak [X] kartları seçin.
+kin.base.door.floatingnose.bribe,Floating Nose'a rüşvet vermek için en az 200 Altın Parça değerinde bir eşyayı atmak ister misiniz?
+kin.base.door.halfling.runaway,Halfling ile yeniden açmak için atmak üzere bir kart seçin.
+kin.base.door.helpmeout.discard,Çalmadan önce bir kartı feda edin.
+kin.base.door.helpmeout.steal,Çalmak için bir item seçin.
+kin.base.door.helpmeout.steal.opponent,Rakip bana yardım et kartı ile çalacak bir eşya seçiyor.
+kin.base.door.illusion.remove,Savaştan atmak için bir canavar kartı seçin.
+kin.base.door.illusion.add,Savaşa eklemek için bir canavar kartı seçin.
+kin.base.door.lawyer.treasures,Yenileriyle değiştirmek için 2 Hazineyi aşağıya sürükleyin veya devam etmek için Geç'e basın.
+kin.base.door.pitbull.distract,"Pitbull'un dikkatini dağıtmak için atmak üzere bir çubuk, direk veya asa seçin."
+kin.base.door.platycore.choose,Kaderinize karar verin.
+kin.base.door.platycore.button.discardhand,Elini at
+kin.base.door.platycore.button.loselevels,2 Level Kaybet
+kin.base.door.snailsonspeed.discard,Elinizdeki [num] kadar eşyaları veya kartları kaybedin - seçiminiz.
+kin.base.door.stonedgolem.avoid,Dövüş ya da Stoned Golem'e El Salla ve yanından geç.
+kin.base.door.thief.theft.discard,Hırsızlık için atılacak bir kart seçin.
+kin.base.door.thief.theft.steal,Çalmak için küçük bir item seçin.
+kin.base.door.thief.backstab.discard,Backstab için atmak için bir kart seçin.
+kin.base.door.thief.backstab.player,Bir rakip seçin.
+kin.base.door.tonguedemon.loseitem,Tongue Demon. nedeniyle atılacak bir item seçin.
+kin.base.door.tonguedemon.loseitem.opponent,Oyuncunun dil iblisine bir kart atmasını bekleniyor.
+kin.base.door.wanderingmonster.monster,Savaşa eklemek için bir canavar kartı seçin.
+kin.base.door.warrior.berserking.discard,Ekstra +1 güç kazanmak için atılacak [X] kartlarını seçin.
+kin.base.door.wizard.charm.monster,Cazibe için bir canavar seçin.
+kin.base.door.wizard.flight.discard,Her birinden +1 bonus almak için atmak üzere en fazla 3 kart seçin.
+kin.base.door.curse.losebigitem.discard,Atmak için büyük bir item seçin.
+kin.base.door.curse.losebigitem.discard.opponent,Rakip atmak için büyük bir eşya seçiyor
+kin.base.door.curse.loseclass.discard,Atmak için bir sınıf seçin.
+kin.base.door.curse.loseclass.discard.opponent,Rakip atmak için bir sınıf seçiyor.
+kin.base.door.curse.losesmallitem.discard,Atmak için küçük bir item seçin.
+kin.base.door.curse.losesmallitem.discard.opponent,Rakip atmak için küçük bir eşya seçiyor.
+kin.base.door.curse.obnoxious.discard,Size en büyük güç bonusunu veren bir item seçin.
+kin.base.door.curse.obnoxious.discard.opponent,"Rakip, onlara en büyük güç bonusunu veren bir eşya seçiyor."
+kin.base.door.supermunchkin.play,Süper Munchkin Oynayın
+kin.base.door.halfbreed.play,Yarım cins oyna
+kin.base.door.hippogriff.steal,Bir kart çal.
+kin.base.door.hippogriff.steal.opponent,Oyuncuların kötü şeyler için seçimleri belirlemesini bekleniyor.
+kin.base.door.curse.incometax.select,Bir itemi atın
+kin.base.door.curse.incometax.tax,RTE Laneti: <br> Toplam [NUM] Altın Ederi Kartları Atın.
+kin.base.door.curse.incometax.tax.opponent,Rakip RTE Laneti için atılacak eşyalar seçiyor.
+kin.base.door.insurancesalesman.buy,Toplam 1000 altın ederinde item atın.
+kin.base.door.insurancesalesman.buy.opponent,"Rakip, sigorta satıcısına atmak için kart seçiyor."
+kin.base.door.divineintervention.jumpin.cleric,[name] ilahi müdahaleyi oynamadan önce din adamı olun?
+kin.base.door.divineintervention.jumpin.cleric.opponent,Rakipler ilahi müdahale çözülmeden önce bir din adamı oynamayı düşünüyorlar.
+kin.base.treasure.item.ratonastick.discard,Kaçmak için canavarı seçin.
+kin.base.treasure.item.flaskofglue,Yeniden zar atmasını istediğiniz oyuncuyu seçin.
+kin.base.treasure.hireling.monster,Otomatik olarak kaçmak için bir canavar seçin.
+kin.base.treasure.play.halitosis,Floating Nose öldürün yada kaçmak için tek seferlik bir eşya kullanın.
+kin.base.treasure.kneepadsofallure.compelled,[name] Sizi Allure Kneepads ile savaşta onlara yardımcı olmaya zorlar! Aşağıdaki ödülü sunuyorlar:
+kin.base.lootthebody,[name] 'in ölüsünden yağmalamak için bir kart seçin.
+kin.base.lootthebody.opponent,"Rakip, [name] 'in ölü gövdesinden yağmalamak için bir kart seçiyor."
+kin.combat.askforhelp.players,Kimden yardım isteyeceğini seçin
+kin.combat.askforhelp.bribe.type,Rüşvet Seçin
+kin.askforhelp.choosehowtreasure,Hazineleri nasıl ödüllendireceğinizi seçin
+kin.askforhelp.chooserandomtreasurecount,Kaç tane rastgele hazineyi vereceğinizi seçin
+kin.askforhelp.choosewhopickstreasure,Canavarın Hazinesinin hangi sıra ile vereceğinizi seçin
+kin.askforhelp.choosecardsoffer,Rakibinize Sunmak İçin Kartlar Seçin
+kin.askforhelp.bribeoffer,"{0}, savaşta yardımcı olursanız bunları verecek. Kabul etmek ister misiniz?"
+kin.askforhelp.sharetreasure,Hazine Paylaşın
+kin.askforhelp.givecards,Kart ver
+kin.askforhelp.none,Hiçbirşey
+kin.askforhelp.random,Rastgele
+kin.askforhelp.draft,Paylaşım Anı
+kin.askforhelp.ntreasure,{0} rastgele hazine
+kin.askforhelp.onetreasure,Bir Rastgele Hazine
+kin.askforhelp.twotreasure,İki rastgele hazine
+kin.askforhelp.threetreasure,Üç rastgele hazine
+kin.askforhelp.pickn,{0} seç
+kin.askforhelp.pickone,Bir tane seç
+kin.askforhelp.picktwo,İki tane seç
+kin.askforhelp.pickthree,Üç tane seç
+kin.askforhelp.draft.you,Sen
+kin.askforhelp.draft.them,Onlar
+kin.core.sellitems,Level için satılacak ürünleri seçin.
+kin.core.sellitems.opponent,Rakip Level için satılacak ürünleri seçiyor.
+kin.nocards,Uygun kart yok
+kin.pile.race,Irk
+kin.pile.class,Sınıf
+kin.pile.carried,Taşınan
+kin.pile.equipped,Üzerinde
+kin.pile.useonparticipant,Munchkin'de kullanın
+kin.pile.useonmonster,Canavarda Kullan
+kin.pile.enhancemonster,Canavarı Geliştirin
+kin.runaway.activateability.preroll,Zar atılmadan önce kaçma yetenekleri etkinleştirilsin mi?
+kin.runaway.activateability.postroll,Herhangi bir kaçış yeteneğini etkinleştirin mi?
+kin.core.play.item.swap,Değiştirmek için itemleri seçin.
+kin.core.play.class.replace,Değiştirmek bir sınıf seçin.
+kin.core.play.race.replace,Değiştirmek için bir Irk seçin.
+kin.core.play.magiclamp,Yok etmek için bir canavar seçin.
+kin.core.play.wishingring,Yüzük ile kaldıralacak bir lanet seçin.
+kin.prompts.activatecurseonplayer,Lanetlenecek bir oyuncu seçin.
+kin.confirm.discard.class,Sınıfınızı Atın?
+kin.confirm.discard.race,Irkınızı Atın?
+kin.die.preroll,Zar atmadan önce herhangi bir ölüm yeteneğiniz etkinleştirin mi?
+kin.die.header,Ölüm için zar atın
+kin.die.postroll,Herhangi bir ölüm zarı yeteneğini etkinleştirin mi?
+kin.choosebadstuff.discard,Elinden çıkart
+kin.choosebadstuff.losetwolevels,İki Level kaybedersin
+kin.waitingforplayer.selectavatar,Yerinizi güvence altına almak için aşağıdaki birleştir düğmesine basın.
+kin.core.play.wandofdousing.pickcard,Dowsing asa ile ıskartaya almak için bir kart seçin.
+kin.base.door.cheat.item,Hile ile oynamak için bir item seçin!
+kin.jumpin.door.active,Kapıyı açmadan önce bir şeyler yapmak ister misin?
+kin.jumpin.attack.active,Canavarları yenmeden önce bir şeyler yapmak ister misin?
+kin.jumpin.beginpursuit.active,Takip etmeye başlamadan önce  bir şeyler yapmak ister misin?
+kin.jumpin.runaway.active,Kaçmak için zar atmadan önce  bir şeyler yapmak ister misin?
+kin.jumpin.postrunaway.active,Kaçma zarından sonra bir şeyler yapmak ister misin?
+kin.jumpin.postrunaway.opponent,Rakip eylemlerini düşünüyor.
+kin.jumpin.postcombat.active,Çatışma tamamlandığına göre şimdi bir şeyler yapmak ister misin?
+kin.jumpin.precurse.active,Lanet çözülmeden önce bir bir şeyler yapmak ister misin?
+kin.core.play.undead,Savaşa ölümsüz ekle
+kin.prompt.askforhelp.draft.header,Select Draft Order
+kin.askforhelp.draft.yourpick,Senin seçimin
+kin.askforhelp.draft.opponentpick,Rakip Seçimi
+kin.core.play.monsterenhancer.selectmonster,Güçlendirmek için bir canavar seçin
+kin.prompt.swapitem.message,Yeni itemi takas etmek ister misiniz?
+kin.base.door.leperchaun.discard,Leprechaun'a atmak için bir düşman eşyası seçin.
+kin.base.door.leperchaun.discard.opponent,Oyuncuların kötü şeyler için seçimleri belirlemesini bekleniyor.
+kin.runaway.choose.monster,Hangi canavardan kaçacağını seçin.
+kin.runaway.choose.monster.opponent,Rakip ilk önce hangi canavardan kaçacağını seçiyor.
+kin.setup.character.raceclass,İlk Irk ve/veya sınıf mı seçin?
+kin.setup.character.raceclass.opponent,Rakiplerin karakterlerini yaratmayı bitirmesini bekleniyor.
+kin.setup.character.item,İlk üzerindeki itemler seçilsin mi?
+kin.setup.character.item.opponent,Rakiplerin karakterlerini yaratmayı bitirmesini bekleniyor.
+kin.core.play.pollymorph,Bir papağan haline getireceğin bir canavarı seçin.
+kin.core.play.killhireling,Öldürmek için Hireling'i seçin
+kin.combat.askforhelp.player.helper,Yardım almak için bir oyuncu seçin
+kin.combat.askforhelp.player.helper.opponent,Rakip yardım almak için bir oyuncu seçiyor.
+kin.combat.askforhelp.response,[name] yardım istiyor
+kin.combat.askforhelp.response.subheader,Bu savaşı kazanmasına yardımcı olmak için aşağıdaki ödülleri alacaksınız.
+kin.bribes.none,Hiçbir şey
+kin.askforhelp.receivecards,Bu kartlar
+kin.thief.roll,Hırsızlık için zar at
+kin.discardpile.treasure.header,Hazine Iskartası
+kin.discardpile.door.header,Kapı ıskartası
+kin.discardpile.choose.header,Deste seçin
+kin.combat.rewards.pre.draw,Hazineleri çekmeden önce herhangi bir yetenek kullanacak mısınız ?
+kin.modifyroll.subheader,Bir numara seçin
+kin.discardpile.view.header,Iskartaları at
+kin.badstuff.roll,Kötü şey zarı
+dialogmessages.aitakeover,"Hareket etmek için zamanınız bitti, böylece yerinize bir AI geçti. Bir sonraki hamlenizi izin verilen zaman içinde yapın yoksa oyundan atılacaksınız."
+kin.base.door.hireling.item,Hireling'in taşıması için bir item seçin
+kin.base.door.hireling.item.swap,Hireling' ile takas etmek için bir item seçin
+kin.jumpin.postroll,[name] öldükten sonra zar atmak ister misin?
+kin.modifyroll.header,Numarayı ayarla
+kin.askforhelp.draftrequest,Hazine {0} seçin
+kin.combat.askforhelp.waiting,Yanıt Bekleniyor
+prompt.charity.header,Bağış
+kin.modifyroll.minimumrequired,{0} veya kaçmak için daha fazlası gerekli
+kin.reconcile.lastchance,Çok fazla büyük iteminiz var. Onları sat ya da rakiplere vermeye devam edin.
+kin.reconcile.lastchance.sell,İtemleri vermeden önce satılacak itemleri seçin.
+kin.reconcile.charity.discard,Çok fazla büyük item var.Fazlalıkları atmak için [X] dışında [X] seçin.
+kin.reconcile.charity.discard.opponent,Rakip fazla olan itemleri attığı için bekliyorsunuz
+kin.reconcile.charity.give,[name] 'e vermek için büyük eşyaları seçin.
+kin.reconcile.charity.give.opponent,Rakip büyük item vermek için item seçiyor.
+kin.reconcile.charity.giveplayer,Büyük bir item vermek için rakibi seçin.
+kin.resurrection.header,Din adamı- Diriliş
+kin.core.play.race.replace.alt,Bu ırkı oynamak mevcut ırkınızı atacaktır. Devam etmek istediğine emin misin?
+kin.core.play.class.replace.alt,Bu sınıfı oynamak mevcut sınıfınızı atacaktır. Devam etmek istediğine emin misin?
+kin.jumpin.precurse.opponent,Rakip bir lanete cevap vermeyi seçiyor.
+kin.jumpin.abilities.opponent,Rakip bir hamle yapıyor
+kin.playerturn.charity.discard.opponent,"Rakip, yardımiçin atmak için kart seçiyor."
+kin.playerturn.lookorloot.opponent,Rakip odayı yağmalamayı veya canavarla savaşmayı seçiyor.
+kin.base.door.cleric.resurrection.discard.opponent,"Rakip, dirilmek için bir kart seçiyor."
+kin.combat.rewards.pre.draw.opponent,"Rakip, hazineleri çekmeden önce bir eylem seçiyor."
+kin.draw.play.opponent,"Rakip, sadece çektikleri kartı oynamak isteyip istemediklerini düşünüyor."
+kin.prompt.swapclass.message,Yeni sınıfa takas etmek ister misiniz?
+kin.prompt.swaprace.message,Yeni ırka takas etmek ister misiniz?
+kin.core.play.stealalevel,Bir Level çalmak için oyuncuyu seçin
+kin.thief.roll.loadeddie,4 veya daha fazla itemi çalmak için gereklidir.
+kin.combat.askforhelp.response.opponent,"Rakip, bir Yardım İsteme talebini değerlendiriyor"
+kin.trade.item.accept.opponent,Rakip bir takas teklifini düşünüyor
+kin.jumpin.confirm.opponent,Rakip savaşa katılıyor
+kin.jumpin.stack.opponent,Rakip savaşa katılıyor
+kin.jumpin.opponent,Rakip savaşa katılıp katılmayacağına karar veriyor.
+kin.jumpin.door.opponent,"Rakip, savaşa katıldıktan sonra hangi eylem yapacağına karar veriyor"
+kin.jumpin.attack.opponent,"Rakip, canavar (lar) ın yenilmeden önce hangi eylemin yapılacağına karar veriyor."
+kin.jumpin.beginpursuit.opponent,"Rakip, canavar arayışa başlamadan önce hangi eylemin yapılacağına karar veriyor."
+kin.jumpin.runaway.opponent,"Rakip, kaçıştan önce hangi eylemin yapılacağına karar veriyor."
+kin.jumpin.postcombat.opponent,"Rakip, savaş tamamlandıktan sonra hangi eylemin yapılacağına karar veriyor."
+kin.base.door.curse.incometax.select.opponent,Rakip RTE laneti için atılacak eşyalar seçiyor.
+kin.playerturn.draw.opponent,Bir rakip kapıyı açmadan önce eylemleri düşünüyor.
+kin.combat.rewards.draft.pick.opponent,Rakip bir hazine kartı hazırlıyor.
+kin.base.door.nettroll.steal.opponent,Oyuncuların kötü şeyler için seçimleri belirlemesini bekleniyor.
+kin.player.changegear.opponent,Rakibin itemlarını düzenlemesini bekleniyor.
+kin.playerturn.charity.lastchance.opponent,Rakibin bağışlayacağı itemlara karar vermesini bekleniyor.
+kin.playerturn.charity.give.opponent,Rakibin kime yardım edeceğine karar vermesini bekle
+kin.playerturn.charity.giveplayer.opponent,Rakibin kime yardım edeceğine karar vermesini bekle
+kin.jumpin.postroll.opponent,Ruloyu çözmeden önce rakibin harekete geçmesini bekleniyor
+kin.reconcile.lastchance.opponent,Rakibin bazılarını atmak için çok fazla büyük eşya taşımasını bekleniyor.
+kin.reconcile.charity.giveplayer.opponent,Rakibin biraz vermek için çok fazla büyük eşya taşımasını bekleniyor.
+kin.base.door.snailsonspeed.discard.opponent,Oyuncuların kötü şeyler için seçimleri belirlemesini bekleniyor.
+kin.base.door.platycore.choose.opponent,Oyuncuların kötü şeyler için seçimleri belirlemesini bekleniyor.
+kin.combat.askforhelp.bribe.selections.opponent,Rakip yardım istiyor.
+kin.combat.askforhelp.players.opponent,Rakip yardım istiyor.
+kin.combat.askforhelp.bribe.type.opponent,Rakip yardım istiyor.
+kin.runawaysuccess.ability,Başarılı bir kaçıştan sonra herhangi bir yetenekleri etkinleştirin mi?
+kin.runaway.badstuff,Başarısız bir kaçıştan sonra herhangi bir yetenekleri etkinleştirin mi?
+kin.runawaysuccess.ability.opponent,"Rakip, başarılı bir kaçıştan yetenek kullanıyor."
+kin.runaway.badstuff.opponent,"Rakip, başarısız bir kaçıştan yetenek kullanıyor."
+kin.runaway.rolltarget,Kaçmak için minimum zar: [X]
+kin.base.door.nettroll.steal,Çalmak için bir item seçin.
+kin.tooltip.1,kin.tooltip.1
+kin.tooltip.gender.male,Erkek
+kin.tooltip.gender.female,Dişi
+kin.tooltip.editcharacter,Karakteri Düzenle
+kin.tooltip.genderneutral,<b> Cinsiyet Nötr </b> <br> Cinsiyeti önemseyen kartlar oyundan çıkarılır.
+kin.tooltip.fastplay,"<b> Hızlı Oyun </b> <br> Daha hızlı bir oyun oynamak isteyen oyuncular için. Oyuncular odayı yağmaladıklarında, kapı güvertesi yerine hazine güvertesinden çekilirler."
+kin.tooltip.sharedvictory,Paylaşılan Zafer
+kin.tooltip.playerhud.strength,Kuvvet
+kin.tooltip.race.human,<b> İnsan: </b> <br> Özel yetenek yok
+kin.tooltip.race.dwarf,<b> Cüce: </b> <br> Herhangi bir sayıda büyük ürün taşıyabilirsiniz. <br> Elinizde altı kart olabilir.
+kin.tooltip.race.elf,<b> Elf: </b> <br> +1 kaçma zarı.
+kin.tooltip.race.halfling,<b> Hobbit: </b>
+"You may sell one Item each turn for double price (other Items are at normal price).<br>If you fail your initial Run Away roll, you may discard a card and try once more.",
+kin.tooltip.class.none,Sınıfsız
+kin.tooltip.class.cleric,"<b> Din Adamı: </b> <br> <b> Diriliş: </b> Kartları yüzü çekmenin zamanı geldiğinde, bunun yerine uygun <i> 'nın bir kısmını veya tamamını alabilirsiniz. Kazıkları atın. <br> Daha sonra çizilmiş her kart için elinizden bir kart atmalısınız. . Her atma size +3 bonus verir."
+kin.tooltip.class.thief,"<b> Hırsız: </b> <br> <b> Backstabbing: </b> Başka bir oyuncuyu geri almak için bir kart atabilirsiniz (savaşta -2). Bunu savaş başına mağdur başına sadece bir kez yapabilirsiniz, ancak iki oyuncu birlikte bir canavarla savaşıyorsa, her birini destekleyebilirsiniz. Başka bir oyuncu tarafından taşınan küçük ürün. Bir kalıp; 4 veya daha fazla başarılı. Aksi takdirde, vurulur ve bir Level kaybedersiniz."
+kin.tooltip.class.warrior,<b> Savaşçı: </b> <br> <b> Berserking: </b> Savaşta üç kart atabilirsiniz; Her biri size +1 bonus verir. <br> Savaşta bağlar kazanırsınız.
+kin.tooltip.class.wizard,"<b> büyücü: </b> <br> <b> Uçuş Büyüsü: </b> Kaçmak için kalıp yuvarladıktan sonra üç kartı atabilirsiniz; Her biri size kaçmak için +1 bonus verir. Canavarı atın ve hazinesini alın, ancak Level kazanmayın. Savaşta başka canavarlar varsa, normal olarak onlarla savaşın."
+kin.tooltip.slowplay,Yavaş oyun
+kin.tooltip.inventory,Envanteri görüntüle
+kin.tooltip.askforhelp,Yardım isteyin
+kin.tooltip.monsterstrength,Canavar Gücü
+kin.tooltip.playerstrength,Oyuncu Gücü
+kin.tooltip.loottheroom,Kapıdan bir kapalı kart çek.
+kin.tooltip.lookfortrouble,Savaş için elinden bir kart çek.
+kin.tooltip.aimood.neutral,Tarafsız
+kin.tooltip.aimood.hostile,Düşmanca!
+kin.tooltip.aimood.veryhostile,Çok düşmanca !!
+kin.tooltip.aimood.friendly,Arkadaş canlısı
+kin.tooltip.aimood.veryfriendly,Babacan
+kin.tooltip.ability.halfling,"<b> Halfling: </b> <br> İlk koşu rulosunda başarısız olursanız, bir kart atabilir ve bir kez daha deneyebilirsiniz."
+kin.tooltip.ability.resurrection,"<b> Diriş: </b> <br> Kart çizmenin zamanı geldiğinde, bunun yerine uygun <i> atma </i> ıskartanın tepesinden bir veya tamamını alabilirsiniz. <Br. > Daha sonra çizilmiş her kart için elinizden bir kart atmalısınız."
+kin.tooltip.ability.turning,<b> Turning: </b> <br> Ölümsüz bir yaratığa karşı savaşta en fazla üç kartı atabilirsiniz. Her atılan kart size +3 bonus verir.
+kin.tooltip.ability.backstabbing,"<b> backstabbing: </b> <br> Başka bir oyuncuyu geri almak için bir kart atabilirsiniz (savaşta -2). Bunu savaş başına kurban başına sadece bir kez yapabilirsiniz, ancak iki oyuncu birlikte bir canavarla savaşıyorsa, her birini destekleyebilirsiniz."
+kin.tooltip.ability.theft,"<b> Hırsızlık: </b> <br> Başka bir oyuncu tarafından taşınan küçük bir eşyayı çalmaya çalışmak için bir kart atabilirsiniz. Bir kalıp; 4 veya daha fazla başarılı. Aksi takdirde, vurulur ve bir Level kaybedersiniz."
+kin.tooltip.ability.berserking,<b> Berserking: </b> <br> Savaşta en fazla üç kartı atabilirsiniz; Her biri size +1 bonus verir.
+kin.tooltip.ability.flight,<b> Uçuş Büyüsü: </b> <br> Kaçmak için kalıptan geçtikten sonra üç karta atabilirsiniz; Her biri size kaçmanız için +1 bonus verir.
+kin.tooltip.ability.charm,"<b> Cazibe Büyüsü: </b> <br> Tüm elinizi (minimum üç kart), onunla savaşmak yerine tek bir canavarı cazip hale getirmek için atabilirsiniz. Canavarı atın ve hazinesini alın, ancak Level kazanmayın. Savaşta başka canavarlar varsa, normal olarak onlarla savaşın."
+kin.tooltip.cardsinhand,Eldeki Kartlar
+tooltip.actionlog,<b> Eylem Günlüğü </b>
+tooltip.challengeinfo,<b> meydan okuma kuralları </b>
+kin.tooltip.eotjumpinwindow,Her oyuncu dönüşünün sonunda ek bir atlama penceresi ekleyin.
+kin.tooltip.discardpiles,Kazıkların üst kartı görüntüleyin
+tooltip.friendslist.owned,Munchkin'in sahibi
+tooltip.friendslist.unowned,Munchkin sahibi değil
+kin.tooltip.ability.hireling1,"Aksi halde taşıyamasanız ve kullanabileceğiniz bir item seçin. Eğer koşmanızı kaybederseniz, item de gider."
+kin.tooltip.ability.hireling2,Herhangi bir canavardan otomatik bir kaçış için işe alımınızı atın.
+kin.tooltip.heldbyhireling,Hireling tarafından tutuldu
+kin.tooltip.playedusingcheat,Hile kullanarak oynadı!
+log.actionlog,Hareket günlüğü
+log.start.game,Oyun başlıyor
+log.turn.start,[name] 'in sırası
+log.turn.start.your,Senin sıran
+log.kick.door.result,"[isim] Kapıyı Açıyor, [kart] ortaya çıkıyor."
+log.look.for.trouble,[name] Bela Arıyor..
+log.loot.room,[name] Odayı yağmalayın.
+log.cursed.door,[name] [card] tarafından lanetlenir.
+log.combat.start,[name] [card] ile savaşa girer.
+log.ask.help,[name] yardım için [playerlist] sorar.
+log.accept.help,[name] savaşta [name2] katılır.
+log.win.combat,[name] [cardlist] 'i yendi.
+log.win.combat.with.help,[name] ve [name2] [cardlist] 'i yendi.
+log.lose.combat,[name] savaşlarını kaybetti ve kaçmalı.
+log.lose.combat.with.help,[name] ve [name2] savaşlarını kaybetti ve kaçmalılar.
+log.discard.monster,[name] [card] savaştan çıkarır.
+log.play.card.generic,[name] [card] oynar.
+log.monster.enhancer.bonus.strength,[name] [card2] 'e [card] oynar ve [X] güç verir.
+log.monster.enhancer.add.treasure,[card] [card2] 'nin [X] ödüllerini artırır.
+log.monster.enhancer.lose.treasure,[card] [card2] 'nin ödüllerini [X] azaltır.
+log.play.card.carried,[name] [card] çantasına koyar.
+log.play.card.equipped,[name] [card] üzerine giyer.
+log.levelup,[name] level'a çıkar [X2].
+log.lose.levels,"[isim] [X] level kaybeder, Level [X2] haline gelir."
+log.draw,[name] [X] [deck] kartları çeker.
+log.face.up.draw,[name] [cardlist] çeker.
+log.draw.doors,[name] [X] kapı kartları çeker.
+log.draw.treasures,[name] [X] hazine kartları çeker.
+log.shuffle.deck,[deck] 'nin atma yığını yeni bir deste oluşturmak için yeniden düzenlenir.
+log.die.roll,[name]   bir zar atar [X] .
+log.run.away.success,[name] kaçar [card].
+log.run.away.fail,[name] [card] kaçamıyor ve kötü şeyler yaşıyor.
+log.charity.give,[name] şu kartları bağışlar [name2] [X] [deck] kartları verir.
+log.trade.items,[name] [name2] 'nin [CardList2] için [cardlist] ile  takas eder.
+log.sell.items,[name] [cardlist] satıyor.
+log.badstuff.death.1,[isim] ölür.
+log.badstuff.death.2,[name2] 'nin üzerinde[card] [card].
+log.badstuff.death.3,[name] Kalan kartlarını atar.
+log.badstuff.hippogriff.infront,[name] [kartı] [name2] 'den alır.
+log.badstuff.hippogriff.fromhand,[name] [name2] 'nin elinden bir hazine kartı alır.
+log.badstuff.king.tut,[name] tüm eşyalarını kaybeder ve elindeki kartları atar.
+log.badstuff.wight.brothers,[name] Level 1'e düşer.
+log.badstuff.unspeakable.horror,"[name] Büyücü güçlerini kaybeder, büyücü kartlarını atar."
+log.badstuff.insurance.salesman,[name] Atar [cardlist].
+log.badstuff.bigfoot,"[name] Başlığını kaybeder, [card]."
+log.tongue.demon.kiss,[name] [card] atar.
+log.wannabe.vampire.oogabooga,"[name] Ooga Booga'yı bağırıyor, özenti vampirine atıyor."
+log.badstuff.net.troll,[name] en yüksek Leveldir ve [name2] 'den [card] alır.
+log.amazon.friend,Amazon [isim] ile savaşmayı reddediyor.
+log.badstuff.amazon.class,"[name] Sınıflarını kaybeder, [cardlist]."
+log.badstuff.amazon.noclass,"[name] sınıfı yoktu, bu yüzden 3 Level kaybediyor."
+log.badstuff.ghoulfiends,[isim] Level alır[X].
+log.badstuff.face.sucker.gear,[name] Başlıklarını [card] ve 1 Level düşer.
+log.lawyer.thief.courtesy,[name] 2 hazineyi ve Lawyer's atar.
+log.badstuff.lawyer,[name] [name2] 'nin elinden bir [deck] kartı çeker.
+log.badstuff.platycore.discard,[name] Ellerini Platycore'un kötü şeylerine atmayı seçti.
+log.badstuff.platycore.lose2,[name] Platycore'un kötü eşyalarına 2 Level kaybetmeyi seçti.
+log.badstuff.pukachu,[name] Ellerini atar.
+log.badstuff.shrieking.geek,[name] Irklarını kaybeder [cardlist] ve sınıf [cardlist2].
+log.badstuff.leperchaun,[name] [name2] atması için [card] seçer.
+log.badstuff.snails.on.speed,[name] [X] itemleri veya kartları ellerinden atar.
+log.badstuff.gelatinous.octahedron,[name] Tüm büyük eşyalarını atar: [cardlist].
+log.pit.bull.give.stick,[name] Pit Bull'dan kaçmak için [card] atar.
+log.badstuff.crabs,[name] Atılır [cardlist].
+log.badstuff.drooling.slime.gear,[name] Ayakkabılarını atar.
+log.badstuff.drooling.slime.nogear,"[name] ayakkabı yoktu, bu yüzden 1 Level kaybediyor."
+log.curse.effect.change.class,[name] [card] tarafından lanetlendi.
+log.curse.effect.lose class,[name] [cardlist] tarafından lanetlenerek sınıfını kaybetti.
+log.curse.effect.change.race,[name] [card] tarafından lanetlendi.
+log.curse.effect.lose.race,[name] [cardlist] tarafından lanetlenerek ırkını kaybetti.
+log.curse.effect.change.sex,[name] [sex] yüzünden lanetlendi ve bir sonraki savaşında -5 güç kaybedecektir.
+log.curse.effect.chicken.head,[name] kafasında bir tavuk var ve kaçış zarlarında -1 ceza alacak.
+log.curse.remove.chicken.head,"[name] başlarını kaybetti, lanetli tavuğu başlarından çıkardı."
+log.curse.effect.doom.duck,[name] lanetlenerek 2 level kaybetti.
+log.curse.effect.income.tax.1,[name] RTE Laneti [X] değerinde bir [kartı] atar.
+log.curse.effect.income.tax.2,[name] [cardlist] 'i RTE Lametine atar.
+log.curse.effect.lose.big,[name] büyük bir eşya [card] atacak şekilde lanetlenmiştir.
+log.curse.effect.lose.level,[name] Lanetlenerek 1 level kaybetti.
+log.curse.effect.lose.small,[name] lanetlenerek 1 küçük item atar [card].
+log.curse.effect.lose.armor,[name] lanetlenerek zırhını atar [cardlist].
+log.curse.effect.lose.headgear,[name] lanetlenerek  başlığını atar [cardlist].
+log.curse.effect.lose.footgear,[name] lanetlenerek  ayakkabsını atar [cardlist].
+log.curse.effect.lose.2.cards,[name] [name2] 'nin elinden bir [deck] kartı çeker.
+log.curse.effect.malign.mirror,[name] bir sonraki kavgalarında sadece zırhlarından bonus kazanmak için lanetlendi.
+log.curse.effect.obnoxious.curse,[name] en büyük bonus itemlerini [card] atacak şekilde lanetlenmiştir.
+log.cleric.resurrect.draw,[name] [deck] yığınından [X] kartlar çizmek için diriliş kullanır.
+log.cleric.resurrect.discard,[name] Dirilişe [cardlist] atar.
+log.cleric.turning,[name] [cardlist] 'i ölümsüzler için atar ve onlara savaşta +3 verir.
+log.thief.backstab,[name] [kartı] backstab [name2] 'ye atar ve savaşta -2 verir.
+log.thief.theft.success,[name] [card] atar ve [name2] 'den [card2]' i  çalmak [X] için zar atar.
+log.thief.theft.fail,[name] [kartı] atar ve bir itemi [X] zar ile çalamadığıı için 1 Level kaybeder.
+log.warrior.berserking,[name] [cardlist] 'i Berserk'e gitmeyi ve savaşta +1 vererek atar.
+log.wizard.flight.spell,[name] [cardlist] 'i uçmak için atar ve kaçmaları için +1 verir.
+log.wizard.charm.spell,[name] Ellerini cazibeye atar [card].
+log.elf.helper,"[name] bir Elf'dir, savası kazanmasına yardımcı oldugu icin [X] Level kazanır."
+log.halfling.double.sell,[name] [X] için [card] satmak için yarım yeteneklerini kullanır.
+log.halfling.luck,"[name] [kartı], koşu rulolarını yeniden yönlendirmek için yarım şanslarını kullanmak için atar ve [X] rulo yapar."
+log.sandals.protect,[name] koruma sandaletleri ile [card] 'dan korunur.
+log.update.race,[name] 'nin karakter sayfası değişir ve onları [card] yapar!
+log.update.class,[name] 'nin karakter sayfası değişir ve onları [card] yapar!
+log.update.sex,"[name]'s character sheet changes, making them [sex]!"
+log.wandering.monster,[name] uses Wandering Monster to add [card] to the combat.
+log.automatic.escape,[name] escapes combat automatically
+log.badstuff.loseitems,"[name] loses their [gearType], [cardlist] to [card]."
+log.cheat.used,[name] uses Cheat! to use [card].
+log.divine.intervention,[name] gains 1 level from Divine Intervention.
+log.doppelganger,"[name] copies themself with Doppelganger, gaining +[X] strength in combat."
+log.flask.of.glue,[name] plays Flask of Glue to force [name2] to reroll their Run Away roll.
+log.halitosis.vs.nose,[name] plays Potion of Halitosis to instantly kill the Floating Nose.
+log.help.me.out.here.steal,[name] steals [card] with Help Me Out Here!
+log.hireling.equip,[name] gives their Hireling [card].
+log.hireling.killed,[name] kills [name2]'s Hireling.
+log.hireling.sacrifice,[name] sacrifices their Hireling to escape [card].
+log.illusion,[name] replaces [card] with [card2].
+log.kneepads.compel,[name] is compelled to help [name2] in combat.
+log.loaded.die,[name] sets their roll to [X].
+log.monster.enhancer.lose.strength,"[name] plays [card] to [card2], giving it -[X] strength."
+log.monster.enhancer.mate,"[name] plays Mate to [card], adding an exact copy of it to the combat."
+log.one.shot.bonus.monsters,[name] plays [card] to give the monsters +[X] in combat.
+log.one.shot.bonus.players,[name] plays [card] to give the players +[X] in combat.
+log.rat.stick.discard,[name] discards Rat on a Stick to escape [card].
+log.steal.level,[name] steals 1 level from [name2].
+log.tuba.bonus.treasure,"[name] had a Tuba of Charm, so draws 1 Treasure for successfully escaping."
+log.undead.pile.on,[name] plays the Undead monster [card] to the combat.
+log.wand.of.dowsing,[name] plays Wand of Dowsing to draw [card].
+log.wishing.ring,[name]'s Wishing Ring cancels [card].
+log.trade.items.one.sided,[name] trades their [card] to [name2].
+log.discard.generic,[name] discards [card].
+log.no.combat.generic,[name] chooses not to fight [card].
+log.help.reward.random,[name] agrees to help [name2] in combat for [X] random treasures.
+log.help.reward.draft,[name] agrees to help [name2] in combat for draft picks [string1].
+log.help.reward.cards,[name] agrees to help [name2] in combat for [cardlist].
+t1.intro,"Canavar kıyafetleri, hazine çalma, Munchkin'in geri dönüş dünyasına hoş geldiniz. Koltuğunuza tutun, zindana dalma zamanı."
+t1.goal,"Oyuna sınıfı olmayan düşük bir Level 1 maceracı olarak başlıyorsunuz (heh, heh). Amacınız, başka bir oyuncu oraya gelmeden önce canavarları denemek, canavarları yenmek ve 10. Levelye ulaşmaktır."
+t1.char.build,"Oyunun başlangıcında, hazine ve kapı güvertelerinin her birinden dört kart eli alacaksınız. Ardından, oyuna başlamak istediğiniz herhangi bir sınıf, Irk veya ürün kartını oynama şansınız olacak."
+t1.moz.1.mobile,Daha yakından bakmak için elinizdeki herhangi bir karta dokunabilir ve tutabilirsiniz. O sümüksü zırhı kontrol edelim.
+t1.moz.1.pc,Daha yakından bakmak için elinizdeki herhangi bir kartın üzerine gelebilirsiniz. O sümüksü zırhı kontrol edelim.
+t1.play.items,"İğrenç görünüyor, ama +1 bonus için balçık içinde kendinizi köpürmezseniz asla buraya gelmeyeceksin!"
+t1.play.items.2,"Slimy zırh giymek için yukarı doğru sürükleyin ve bir ""ekipman"" kutusunun yerleştirdiği görülür."
+t1.total.strength,Bu eşyaları oynarken savaş gücünüzün arttığına dikkat edin. Savaş gücü dişli bonusunuza ve mevcut Levelnize eşittir.
+t1.play.items2,"Bu sayıyı daha da yüksek kranklamak için sallanan buckler'ı oynayalım. Ekipman savaşta oynanamaz, bu yüzden vaktinden önce hazırlanmaya değer."
+t1.end.char.creation,"Oyun kartları işiniz bittiğinde, bu şovu yolda almak için devam et'i tıklayın! (Veya duruma göre koyu önsöz tüneli.)"
+t1.turn1,"Önce kalıyorsun! Sıranızın başlangıcında, zindanın bir sonraki odasına kapıyı atmadan önce kart oynama şansınız olacak. Ama bu sefer hepiniz zaten hazırsınız, bu yüzden bu partiyi başlatalım!"
+t1.harpies,"Bir canavar belirir! Savaştaki harpları yenmek için gücünüz Levelsinden daha büyük olmalıdır. Eğer kaybedersen, kötü şeyler yaşarsın!"
+t1.tie.v1,"Ne yazık ki, güç için bağlandınız: 4 ila 4. Ama elinde yardımcı olabilecek bir kartınız var! Bu savaşçıya göz atın."
+t1.class.v1,"Gördüğünüz gibi, savaşçılar bağlarda kazanır! Ekipmanlardan farklı olarak, savaş sırasında bile sıranızda herhangi bir zamanda bir sınıf veya Irk oynayabilirsiniz. Devam et ve şimdi o savaşçıyı oynayın."
+t1.tie.v2,Normalde bir kravatta kaybedersiniz. Ama daha önce akıllıca bir savaşçı olduğunuz için zafer için hazırız!
+t1.end.player.combat.phase,O harpy'yi yenmek ve eşyalarını almak için saldırıya tıklayın!
+t1.gary.ponfusion,"Çok hızlı değil! Gary, burada. Çizici inek olarak da bilinir. Savaş sona ermeden önce, rakipleriniz kart oynama şansı elde ediyor - bu ponfüzyonun cesimi gibi harpies'in gücünü 3 arttırmalıyım!"
+t1.easy,"İlk oyunu Gary. Onları kolaylaştıracağımızı kabul ettik, hatırladın mı?"
+t1.gary.potion,"Hey, burada değerli bir ders veriyorum! Unutma, acemi: hayat berbat ve insanlar gerizekalı! Ve hey, en azından sadece tek atışlık bir ürün, bu yüzden tekrar yapamam."
+t1.jump.in,"Endişelenme, Gary'nin saçmalıklarına cevap verme şansınız var. Devam edin ve Gary'den öncelik almak için Jump-In'i seçin."
+t1.oneshot.v1,"Harika! Şimdi bu dondurucu patlayıcı iksirle masayı çevirebilirsiniz! Bu tek atışlık bir ürün, yani ekipmanlardan farklı olarak, savaş sırasında veya rakibinizin sırasına göre elinizden oynanabilir."
+t1.oneshot.v2,Harika! Şimdi envanterinizdeki bu dondurucu patlayıcı iksirle masayı çevirebilirsiniz! Envanterinizi erişmek için açabilir veya avatarınızın yanındaki düğmesine dokunun.
+t1.rewards,"Harika iş! Bir canavarı her yendiğinizde, bir Level kazanırsınız! Ayrıca Harpies'in 2 hazinenin listelenen ödülünü de kazanırsınız."
+t1.charity.warning,"Hmm, elinizde 6 kart var gibi görünüyor. Dönüşü 5'ten fazla bitirirseniz, telafi etmek için en düşük Levelli rakibe kart vermeniz gerekir. Bundan kaçınmak için, neden çizdiğiniz iki hazineyi satmıyorsunuz - yine de kullanamazsınız?"
+t1.sell,"Her itemnin sol alt köşesinde altın parça değeri vardır. Savaşta olmadığınızda sırayla, Level kazanmak için 1000 altın parça ürün satabilirsiniz. Pelerin ve şapkanızı satmak için itemler satma düğmesine basın."
+t1.pass,"Harika, bir başlangıç ​​yapıyorsun! Şimdi Gary ve ben sıramlarımızı alma zamanı. Dönüşü bir sonraki oyuncuya geçmek için Bitti."
+t1.op1.chainsaw,Bu kötü çocukla bazı canavarları doğramak için sabırsızlanıyorum!
+t1.op1.jump.in,"Rakiplerinizin dönüşleri sırasında da atlayabilirsiniz. Gary sadece o ""büyük"" testere oynadı, neden atlayıp ona ""büyük eşyayı kaybet"" lanet oynamıyorsun?"
+t1.op1.gary.annoyed,Bunu ne için yaptın?!
+t1.op1.retort,"Hayat berbat ve insanlar gerizekalı, Gary!"
+t1.op1.gary.sulk,"Her neyse. Eğer aptal bir yenilik olmasaydın, beni gerçekten almak için savaşa girene kadar beklerdin. Lanetler her zaman oynanabilir, bilirsiniz."
+t1.op1.end.jump.in,"Evet, ama şimdi yapmak eğlenceliydi! Bakalım Gary'nin bundan sonra ne yaptığını görelim."
+t1.kick,Tekrar sıranın. Bana o kapıyı açmaya hazırsın gibi görünüyor!
+t1.curse,"Oh hayır, bir lanet! Bazen kapıyı açarken canavarlardan başka bir şeyler bulacaksınız. Eğer bir sınıf veya Irk kartı gibi bir şeyse, sadece çizeceksiniz, ancak bir lanetse, hemen oynanır - üzerinde!"
+t1.curse.2,"O sümüksü zırhı kaybetmen gerekecek. Parlak tarafta, belki bir gün tekrar temiz hissedeceksin."
+t1.trouble,"Bir canavarla karşılaşmazsanız, elinizden bir canavar oynayarak ya da başka bir kapı kartı çizmek için odayı yağmalayarak sorun aramayı seçersiniz."
+t1.trouble.2,"Elinizdeki yengeçlerin durması kolay olmalı, neden sorun aramıyor ve onları oynamıyorsunuz?"
+t1.gary.comment,"Ha, bunu kolayca kazanmana izin veremem! Bu yengeçleri akıllı hale getirmek için bir canavar geliştirici oynayacağım. Şimdi Level 6'dır, ancak yenilirse ek bir hazine verecektir."
+t1.help,Görünüşe göre birkaç güç. Neyse ki yardım etmek için buradayım. Başka bir oyuncunun savaştaki gücünüze güçlerini eklemesini istemek için Yardım İstek düğmesine basabilirsiniz.
+t1.help.3,"Canavarı yenmek için Level kazanan tek kişi sizsiniz, genellikle size yardım etmek için insanlara rüşvet vermeniz gerekir. Tek bir hazinenin düşük, düşük fiyatı için size yardımcı olacağım."
+t1.offer.2,Teklifi kabul ediyorum. Bazı yengeç keklerinin tadını çıkarma zamanı!
+t1.offer.3,Bir din adamı olmadığınız için şimdi keskinlik topuzunu donatamazsınız. Ama devam edin ve taşıma alanınıza oynayın. Belki daha sonra bir kullanım bulacaksınız.
+t1.op2.fight,"Maçınızla tanıştın, Tiny Dog!"
+t1.op2.enrage,Gary'ye kendi ilacının tadını verme şansı gibi görünüyor. At ve o pooch'u öfkelendirin!
+t1.op2.gary.grumble,"Bir sonraki Gary altı taraflı bir kalıp yuvarlayarak kaçmaya çalışacak. 5 veya daha yüksek bir ruloda canavarların ""kötü şeyler"" olumsuz etkisinden kaçınır."
+t1.op2.gary.loss,"Ow, her şey ağrıyor!"
+t1.trade,Hmmm ... İkimizin sadece birbirlerinin sınıfı tarafından donatılabilecek bir itemsi var gibi görünüyor. Hadi takas edelim!
+t1.trade.2,Oyuncular her savaşta olmadığında eşyaları takas edebilirler. Bana bir ticaret sunmak için şimdi ticaret düğmesine basın.
+t1.trade.4,Seninle iş yaptığıma memnunum! Avatarınızı tıklayarak eşyalarınızı istediğiniz zaman kontrol edebilirsiniz.
+t1.op3.horror,* Çığlık! Ölüm ben olur!
+t1.op3.death,"Zavallı Gary. Bir oyuncu öldüğünde, Irkları, sınıfları, lanetleri ve Level dışındaki tüm eşyalarını kaybederler ve bir sonraki dönüşe kadar oyun dışında kalırlar. Bir sonraki dönüşlerinde yeni bir başlangıç ​​eli çekecekler."
+t1.op3.death.2,Ama önce vücudu yağmalayarak kartlarından birini alıyoruz. Devam edin ve fantezinize uygun her şeyi alın!
+t1.op3.tutorial.end,"Şimdi, ilk cesedinizi yağmaladığınıza göre, bence gerçek bir munchkin olduğunu söylemek güvenli! Buradan dışarıda, seni dövmeye çalışacağım, sana öğretmeyeceğim. Herhangi bir sorunuz varsa, Ayarlar menüsündeki kural kitabını kontrol edin."
+t1.op3.tutorial.end2,"Level 5'in ilk oyuncusu bu sefer kazanır (normalde 10). Ve unutmayın, son Levelniz bir canavar öldürerek kazanılmalıdır!"
+t1.op3.tutorial.end3,"Güzel, sadece ısınıyordum! En iyi maceracı kazansın!"
+t1.play.items3.demo,"Munchkins sadece bir ayak, zırh ve başlık donatabilir ve her elinde sadece 1 item (veya tek bir iki elli item) olabilir. Ayrıca her seferinde sadece bir büyük ürününüz olabilir."
+t1.charity.warning.demo,"Hmm, elinizde 6 kart var gibi görünüyor. Dönüşü 5'ten fazla bitirirseniz, en düşük Levelli rakibe kart vermeniz gerekir."
+t1.sell.demo,Sadaka bir şeyler vermek zorunda kalmamak için kartlarınızı oynadığınızdan emin olmalısınız.
+t1.pass.demo,"Sivri güç şapkanız sadece bir büyücü tarafından donatılabilir, bu nedenle özellikle yararlı değildir, ancak elinizden uzak tutmak için taşıma alanınıza sürükleyebilirsiniz. Oradayken herhangi bir güç sağlamaz."
+t1.crabs.demo,Bazı yengeç keklerinin tadını çıkarma zamanı!
+kin.tutorial.leave,Terk etmek
+kin.tutorial.finish,Oyunu bitir!
+t1.op3.tutorial.end1,"Şimdi Gary'ye patron olduğunu gösterdiğine göre, bir Munchkin Pro olmaya yol açıyorsunuz! Buradan dışarıda, seni dövmeye çalışacağım, sana öğretmeyeceğim."
+t2.set.1,Başka bir macera zamanı! Neden bu sefer hırsızlığı denemiyorsun?
+t2.set.2,"Hırsız, gerçekten mi? Güverteden geçip okunacak en çok metinle kartı buldunuz mu? Bu ne tür bir öğretici?"
+t2.turn1.1,"Oğlum, bir sürü işe yaramaz eşya çizmiş gibisin. Ama en azından biraz altın değerinde! Bakalım onları başka birine piyonlayabilir miyiz!"
+t2.turn1.2,"Sırayla, savaşta olmadığınızda, bir Level kazanmak için 1000 altın değerinde ürün satabilirsiniz. Envanter ekranınıza gidin ve üvey satıcı ve kalkanınızı satın."
+t2.turn1.3,"Yani bir Level, büyük bir anlaşma var. İyi bir eşyaya sahip olmayı tercih ederim."
+t2.turn1.4,"itemleri seviyorum. Ve bir din adamı olarak, oraya sahip olduğunuz keskinlik topuzunu gerçekten çok isterim. Neden bana takas edemeyeceksin?"
+t2.turn1.5,Hırsız sınıfınızın size karşılığında vermesi için mükemmel olacak bir hançer taşıyorum. Topuz ve hançeri ticaret alanlarına sürükleyin.
+t2.turn1.7,"Yikes, bu trolle savaşan bir ele ihtiyacın olacak. Bana getirmek için yardım isteyin düğmesine basın ve gücüm tarafınıza eklenecek!"
+t2.turn1.8,"Canavarı yenmek için Level kazanan tek kişi sizsiniz, genellikle size yardım etmek için insanlara rüşvet vermeniz gerekir. Tek bir hazinenin düşük, düşük fiyatı için size yardımcı olacağım."
+t2.turn1.9,Şanslısın şu anda bir canavar geliştiricim yok - eğer kaybederseniz ikiniz de kötü şeylerle vurulursunuz!
+t2.turn1.enemy.1,Gary'ye karşı çalışmak için hırsızlık becerilerinizi koymak için şimdi atlayın.
+t2.turn1.enemy.2,Yetenekleriniz mevcut olduğunda aksiyon alanınızda görünecektir. Gary'nin gücünü azaltmak için Backstab ile Bullrog'u atın.
+t2.turn1.enemy.3,"Hmm ... Gary bunu biraz sevmedi. Bir AI rakibinin burada ne kadar arkadaş canlısı olduğunu izleyebilirsiniz. Oyuncular, onlara yönelik eylemlerinizin bir sonucu olarak az ya da çok arkadaş canlısı olacak ve buna göre hareket edeceklerdir. Ama dikkat et! Güvenebileceğiniz tek kişi kendinizdir."
+t2.turn1.enemy.4,* Çığlık! Ölüm ben olur!
+t2.turn1.enemy.5,"Zavallı Gary. Bir oyuncu öldüğünde, Irkları, sınıfları, lanetleri ve Level dışındaki tüm eşyalarını kaybederler ve bir sonraki dönüşe kadar oyun dışında kalırlar. Bir sonraki dönüşlerinde yeni bir başlangıç ​​eli çekecekler."
+t2.turn1.enemy.6,"Ama önce vücudu yağmalayarak kartlarından birini alıyoruz. Henüz zırhınız yok, o zaman neden o alev zırhı almıyorsun?"
+t2.turn1.enemy.7,"Şimdi, ilk cesedinizi yağmaladığınıza göre, gerçek bir munchkin uzmanı olduğunuzu söylemek güvenli! Buradan dışarıda, seni öğretmeyecek şekilde Level 10'a yenmeye çalışacağım. Herhangi bir sorunuz varsa, Ayarlar menüsündeki kural kitabını kontrol edin."
+t2.turn1.enemy.8,"Şimdi, bu oyunu bitirelim mi? Yoksa solo oyun, zorluklar veya çevrimiçi oyunda sıfırdan bir oyuna başlamayı mı tercih edersiniz?"
+t2.turn1.triggered.1,"Güzel, sadece ısınıyordum! En iyi maceracı kazansın!"
+t2.turn1.triggered.2,Hey (pozisyon) ilk gerçek oyunun için o kadar da kötü değil. Bize kimin patronunu hiçbir zaman göstereceksin!
+t2.turn1.triggered.3,İnanılmaz! İlk oyununuzda bir galibiyet!?! Gary bunun sonunu duymama asla izin vermeyecek ...
+ftt.undead,"Elinde ölümsüz bir kart var. Ölümsüz, savaş sırasında başka bir ölümsüz katılmak için oynanabilir."
+ftt.multi.monster,İki canavarla karşı karşıya kalıyorsun. Onları yenmek için toplam kombine güçlerinden daha fazla güce sahip olmalısınız.
+t1.curse.3,"Kapıyı tekmelemenin dışına çektiğiniz lanetler diğer oyuncularda oynanabilir. Gary'yi ""Büyük Ürün Kaybet"" ile lanetlemeyi deneyin."
+tutorial.prompt.complete.header,Öğretici Tamamlandı
+tutorial.prompt.complete.body,Ne için bekliyorsun? Yerel ve çevrimiçi oyunda baskın yapılacak daha fazla zindan var!
+tutorial.title.tutorial01,Öğretici 1 - Giriş
+tutorial.description.tutorial01,Temel bilgileri öğrenin! Bir yerden başlamalısın.
+tutorial.title.tutorial02,Öğretici 2 - Daha fazla şey!
+tutorial.description.tutorial02,"Ticaret, satış ve yardım isteyerek kendinizi yapışkan durumlardan nasıl çıkaracağınızı öğrenin."
+tutorial.cardanatomy.title,Başlık
+tutorial.cardanatomy.geartype,Item Tipi
+tutorial.cardanatomy.goldcost,Altın maliyeti
+tutorial.cardanatomy.cardtype,Kart tipi
+eula.acceptterms,Kabul ediyorum
+eula.requestupdates,Bana haber gönder
+eula.title,Son kullanıcı Lisans Anlaşması
+eula.body,"<b> Lisans </b> <br> Bu yazılımı içeren bu Dire Wolf Dijital Oyunu'nu (“Oyun”) kullanarak, bu son kullanıcı lisans sözleşmesinin (“Sözleşme”) yasal olarak bağlayıcı ve geçerli bir sözleşme olduğunu kabul edersiniz ve kabul edersiniz ona bağlı olmak. Fikri mülkiyet yasalarına ve bu Anlaşmanın tüm hüküm ve koşullarına uymayı kabul edersiniz. Oyun Hizmetlerini Kullanma. Sınırlı, münhasır olmayan, devredilemez lisans, alt lisans hakkı olmadan, oyunu bu sözleşmeye ve Dire Wolf Digital ile diğer herhangi bir yazılı anlaşmaya uygun olarak kullanmak. Dire Wolf Digital oyunun başlığını size aktarmaz; Size verilen lisans bir satış değildir. Bu anlaşma, Dire Wolf Digital ile oyunun alıcıları veya kullanıcıları arasında bağlayıcı bir yasal anlaşmadır. br> <br> <b> dağıtım </b> <br> Oyun ve buradaki lisans, yeniden satılmaya, aktarılmaya veya alt lisanslara kopyalanamaz, paylaşılmaz, dağıtılmaz, yeniden satılamaz, veya kısmen. Oyunun kullanımı, oyunu bir bilgisayar veya benzeri cihazda yüklediğiniz, yüklediğiniz veya çalıştırdığınız anlamına gelir. <br> <br> Oyunun çevrimiçi hizmet bölümünü kullanmak için bir hesap oluşturmanız gerekir. Yalnızca ikamet ettiğiniz ülkenizde tam yasal kapasiteye sahipseniz bir hesap oluşturabilirsiniz ve Dire Wolf Digital tarafından bir hesap oluşturmanız özellikle yasaklanmamıştır. Bu Sözleşmenin amaçları doğrultusunda, çevrimiçi hizmetler, sohbet ve çok oyunculu oyunlar oynamak için diğer oyunculara bağlanma araçlarını ve yöntemlerini gösterir. Oyunun kontrolünü, oyununu veya diğer herhangi bir işlevini kullanan, değiştiren veya otomatikleştiren herhangi bir yazılım. > <br> Oyunun pornografik, ırkçı, kaba, müstehcen, iftira edici, iftira edici, küfürlü, nefreti teşvik eden, ayrımcı veya din, etnik miras, Irka dayalı önyargılar sergileyen malzemelerle birlikte kullanmayacak, sergilemeyecek veya dağıtılmayacaksınız. , Cinsiyet, Cinsel Yönelim veya Yaş. Oyunu mühendislik yapmaya, tersine çevirmeye, sökmeye veya ayırmaya çalışmayacak ve denemeyeceksiniz. Oyunu temsil eden veya oyuna dayanan veya bunlardan türetilen herhangi bir türev eser veya diğer eserler oluşturamazsınız. <br> <br> Dire Wolf Digital'in adı, logosu ve oyunu temsil eden grafik dosyası, Korkusuz kurt dijital ürünleri tanıtmanın herhangi bir yolu. Dire Wolf Digital, oyuna ve oyuna ve bu konudaki tüm hak, unvan ve ilginin tek ve münhasır mülkiyetini korur. ve servisler. Tek kullanıcı programının sınırları dahilinde istenen durumlar dışında, kullanıcı tarafından hiçbir program, kod, parça, görüntü, ses örneği veya metin hiçbir şekilde kopyalanamaz veya kullanılmaz. Açıkça verilmeyen tüm haklar, Dire Wolf Digital için ayrılmıştır. ve Dire Wolf Digital'in yazılımını kullanmanızla ilgili herhangi bir iddiaya, işlemlere, talep ve maliyetlere karşı distribütörler. Dire Wolf Digital, çalışanları, temsilcileri veya distribütörleri, herhangi bir sonuçsal, arızi, dolaylı, özel veya cezai zarardan sorumlu olacak (sınırlama olmaksızın, kâr kaybı, kullanım kaybı, iş kesintisi, bilgi kaybı veya veriler veya maddi kayıp), bu sözleşme ile bağlantılı veya bu sözleşmeden kaynaklanan veya bunlarla ilişkili olarak, oyunun veya oyunun kullanımı veya kullanılamaması veya sözleşmeye, haksız fiil veya başka herhangi bir teori dahil Ding ihmali. <br> <br> <b> Garantiler </b> <br> Yazılı olarak açıkça belirtilmedikçe, Dire Wolf Digital bu yazılımla ilgili hiçbir temsil veya garanti vermez ve ifade edilen veya ima edilen diğer tüm garantileri açıkça hariç tutar , sınırlama olmaksızın, belirli bir amaç için satılabilir kalite veya uygunluk ile ilgili herhangi bir zımni garantili dahil olmak üzere sözlü veya yazılı. <br> <br> <b> Yönetim Yasası </b> Kanun çatışması ilkelerine bakılmaksızın Colorado Eyaleti yasalarına uygun. Bu EULA kapsamında ortaya çıkan herhangi bir anlaşmazlık, yalnızca Denver, Colorado şehrinde ve ilçesinde oturan bir federal veya eyalet mahkemesinde dinlenecek ve bu nedenle bu mahkemelerin münhasır olmayan yargı yetkisini geri döndürmez bir şekilde kabul edersiniz. Bu Anlaşmanın herhangi bir hükmü yasadışı, geçersiz veya başka bir şekilde uygulanamaz olarak değerlendirilecekse, bu hükmün bu lisanstan koparılabilmesi ve diğer hükümlerin geçerliliğini ve uygulanabilirliğini etkilemeyeceği kabul edilecektir. <br> <b> fesih </ B> <br> Bu Sözleşmenin hüküm ve koşullarına uyulmaması, bu lisansın otomatik ve derhal feshedilmesine neden olacaktır. Bu lisansın feshi üzerine herhangi bir nedenle, oyunun kullanımını derhal bırakmayı ve bu Sözleşme kapsamında sağlanan oyunun tüm kopyalarını yok etmeyi kabul edersiniz. Sizin tarafınızdan yapılan finansal yükümlülükler bu lisansın sona ermesi veya feshedilmesinde hayatta kalacak. ""Olduğu gibi"" ve herhangi bir tür garantisi olmadan, açık veya zımni (sınırlama olmaksızın, herhangi bir ima edilen performans, satılabilirlik veya belirli bir amaç için uygunluk garantisi dahil) ve bu tür tüm garantiler reddedilir. Bu feragatname, oyun tarafından oluşturulan ve düzenlenen tüm dosyalarla ilgilidir."
+ai.avatar.floatingnose,Nosy Ned
+ai.avatar.wightbrothers,The Brothers Wight
+ai.avatar.plutoniumdragon,Dr. Dragon
+ai.avatar.bullrog,Fred
+ai.avatar.pottedplant,Peaty Potter
+ai.avatar.theshadow,The Shadow
+ai.avatar.fredflametoe,Terry Flametoe
+ai.avatar.largeangrychicken,Mr. Chicken
+ai.avatar.mrbones,Ben Bonesly
+ai.avatar.tonguedemon,Lana Longton
+ai.avatar.nettroll,Ted Trollbooth
+ai.avatar.carolcatsuit,Carol Catsuit
+ai.avatar.slimysal,Slimy Sal
+ai.avatar.harriethippietin,Harriet Hippietin
+ai.avatar.sallyswording,Sally Butterknife
+ai.avatar.earlyuppiedink,Earl Yuppiedink
+ai.avatar.debbieaxerow,Debbie Axerow
+ai.avatar.courageouscarl,Courageous Carl
+ai.avatar.insurancesalesman,Sal from Sales
+ai.avatar.stonedgolem,Rocky
+ai.avatar.wannabeevampire,Count Wannabee
+ai.avatar.pierrearrlington,Pierre Arrlington
+ai.avatar.ghouliaghostly,Ghoulia Ghostly
+ai.avatar.randyrulefinder,Randy Rulefinder
+ai.avatar.ottoorcington,Otto Orcington
+ai.avatar.mwelbybalding,Welby Balding
+ai.avatar.pandolfpocus,Pandolf Pocus
+ai.avatar.maulrat,Maulery Ratstuff
+ai.avatar.breehornshield,Brie Hornshield
+ai.avatar.sueshorterly,Sue Shorterly
+ai.avatar.morwengreenfoot,Morwen Greenfoot
+kin.challenge.trackmeet.name,Track Meet
+kin.challenge.trackmeet.normal.description,"Bir oyuncu başarılı bir şekilde kaçtığında, bir Level kazanırlar (kazanan Level olamaz)."
+kin.challenge.trackmeet.heroic.description,"Bir oyuncu başarılı bir şekilde kaçtığında, bir Level kazanırlar (kazanan Level olamaz). Rakipler gerçekten hızlı koşmanın botlarıyla başlar."
+kin.challenge.superduper.name,Süper
+kin.challenge.superduper.normal.description,"Oyunun başlangıcında kapı kartları çizmek yerine, süper munchkin ve iki rastgele sınıf, yarım cins ve iki rastgele Irkla başlıyorsunuz."
+kin.challenge.superduper.heroic.description,"Herkes süper munchkin ve iki rastgele sınıf, yarı cins ve iki rastgele Irkla başlar. Kapı kartları olmadan başlıyorsunuz."
+kin.challenge.rulesofattraction.name,Çekim Kuralları
+kin.challenge.rulesofattraction.normal.description,Allure Kneepads ile başlıyorsunuz ama rakipleriniz Level 3'te başlıyor.
+kin.challenge.rulesofattraction.heroic.description,Herkes Allure Kneepads ile başlar. Rakipleriniz Level 3'ten başlar.
+kin.challenge.babyland.name,Bebek arazisi
+kin.challenge.babyland.normal.description,"Tüm canavarlar bebektir (-5 güç, -1 hazine). Güverte düşük Levelli canavarlar üst düzey olanlarla değiştirilir."
+kin.challenge.babyland.heroic.description,"Tüm canavarlar bebektir (-5 güç, -1 hazine). Güverte düşük Levelli canavarlar üst düzey olanlarla değiştirilir. Bebeklerden kaçarken rulonuza -1 alırsınız."
+kin.challenge.veryhelpful.name,Çok yararlı
+kin.challenge.veryhelpful.normal.description,"ELF olarak başlıyorsunuz, ancak yardım teklifleri istemeyi reddedemezsiniz."
+kin.challenge.veryhelpful.heroic.description,"ELF olarak başlıyorsunuz, ancak yardım teklifleri istemeyi reddedemezsiniz. Kapı güvertesinde 5 ekstra yüz emici ve cüzzam vardır."
+kin.challenge.dicechucker.name,Zar Chucker
+kin.challenge.dicechucker.normal.description,Canavar Levelleri 3 arttırılır. Bir oyuncu sırayla bir savaşa başladığında bir ölür ve sayıyı savaş güçlerine eklerler.
+kin.challenge.dicechucker.heroic.description,Canavar Levelleri 3 arttırılır. Bir oyuncu sırayla bir savaşa başladığında bir ölür ve sayıyı savaş güçlerine eklerler. Rakipler kirli dolandırıcılardır ve her zaman en az 3'ü bu şekilde yuvarlar.
+kin.challenge.neveradullmoment.name,Asla sıkıcı bir an yok
+kin.challenge.neveradullmoment.normal.description,"Turn'un başında, oyuncular canavar olmayan bir kapı kartı yüzü aşağı çekerler. Oyuncular kapıyı açarken her zaman bir canavar çizecekler."
+kin.challenge.neveradullmoment.heroic.description,"Dönüş başında, diğer oyuncular yüzü aşağı canavar olmayan bir kapı kartı çiziyorlar. Bunun yerine yüzleşecek (lanetlere dikkat et!). Oyuncular kapıyı açarken her zaman bir canavar çizecekler."
+kin.challenge.charactersheetconfusion.name,Karakter sayfası karışıklığı
+kin.challenge.charactersheetconfusion.normal.description,"Sıranızın başlangıcında, rastgele farklı bir ırk, sınıf veya cinsiyet haline gelirsiniz."
+kin.challenge.charactersheetconfusion.heroic.description,"Sıranızın başlangıcında, rastgele farklı bir ırk, sınıf veya cinsiyet haline gelirsiniz. Rakipleriniz Level 3'ten başlar."
+kin.challenge.merchantofmenace.name,Tehdit tüccarı
+kin.challenge.merchantofmenace.normal.description,"Yapay zeka, eşit veya daha fazla değerli bir item alıyorsa asla bir ticareti reddetmez. Satın alma Level up'ları 500 altın parçaya daha fazla mal oluyor."
+kin.challenge.merchantofmenace.heroic.description,"Yapay zeka, eşit veya daha fazla değerli bir item alıyorsa asla bir ticareti reddetmez. Level yükseltmek için ürün satamazsınız."
+kin.challenge.loner.name,Yalnız
+kin.challenge.loner.normal.description,Bir çubukta bir sıçan ve oyunda kötü bir tatma spor içeceği ile başlıyorsunuz. Bu oyun diğer oyunculardan yardım isteyemezsiniz.
+kin.challenge.loner.heroic.description,Bir çubukta bir sıçan ve oyunda kötü bir tatma spor içeceği ile başlıyorsunuz. Bu oyun diğer oyunculardan yardım isteyemezsiniz. Rakipler size düşman olarak başlar.
+kin.challenge.doubletrouble.name,Çifte Bela
+kin.challenge.doubletrouble.normal.description,Kapıyı açarken karşılaştığınız tüm Level 1-2 canavarlar bir eşle görünür.
+kin.challenge.doubletrouble.heroic.description,Kapıyı açarken karşılaştığınız tüm Level 1-4 canavarlar bir eşle görünür.
+kin.challenge.pantslessjuggler.name,Pantolonsuz hokkabaz
+kin.challenge.pantslessjuggler.normal.description,"6 el değerinde eşya taşıyabilirsiniz, ancak footgear veya zırhı donatamazsınız. Hazinelerinizden birinin yerine elinde rastgele 2 elle bir ürünle başlıyorsunuz."
+kin.challenge.pantslessjuggler.heroic.description,"6 el değerinde eşya taşıyabilirsiniz, ancak footgear veya zırhı donatamazsınız. Hazinelerinizin yerine elinde rastgele 2 elle bir ürünle başlıyorsunuz."
+kin.challenge.curses.name,Lanet olsun!
+kin.challenge.curses.normal.description,Güverte içinde iki kat daha fazla lanet var. Bir dilek halkasıyla başlıyorsunuz.
+kin.challenge.curses.heroic.description,Güverte içinde iki kat daha fazla lanet var. Rakipler koruma sandaletleriyle başlar.
+marketing.1,Canavarları öldür! Hazineyi çal! Arkadaşını bıçakla!
+marketing.2,"Steve Jackson Games ile ortaklaşa, ikonik masa üstü kart oyunu Munchkin katil yaramazlıklarını dijital cihazlara getiriyor!"
+marketing.3,Zindana inin. Kapıya tekme. Bulduğun her şeyi öldür. Arkadaşlarınızı geri çek. Hazineyi çal ve koş.
+marketing.4,"Dünyada satılan milyonlarca kopya ile Munchkin, zindan macerası hakkında mega hit kart oyunudur ... o aptal rol oynayan şeylerin hiçbiri. Siz ve arkadaşlarınız canavarları öldürmek ve sihirli eşyaları almak için Irkıyorsunuz. Azgın kask ve popo vuruş bot. Napalm personelini kullanın ... ya da belki de kanlı parçalanma testeresi. Saksılı bitkiyi ve salya akıntısını keserek başlayın ve plütonyum ejderhaya kadar çalışın!"
+marketing.5,Bir macerayı karıştırın!
+marketing.6,Sen bir munchkinsin ... ve munchkins hazineyi sever! Ama siz ve zor kazanılan ganimet arasındadır!
+marketing.7,"Munchkin, bir zindanı keşfetmek için kapı kartları ve hazine kartları kullanarak bir dizi turda çalınır."
+marketing.8,"Irk ve sınıf kartlarını birleştirerek bir karakter oluşturun, ardından gizlenen canavarlarla yüzleşmek için hazırlayın!"
+marketing.9,Canavarları öldürün ve Level atlamak için hazine toplayın! Level 10'a ulaşan ilk Munchkin kazanıyor!
+marketing.10,Ama bekle ... daha fazlası var!
+marketing.11,"Çapraz platform, çevrimiçi çok oyunculu shenanigans!"
+marketing.12,Macera ticaretinin püf noktalarını bir zindan-verimli bir öğreticide öğrenin!
+marketing.13,Özel kurallarla solo zorluklarda bıçağınızı keskinleştirin!
+marketing.14,"Munchkin'de sorun aramaya git. Hey, hepimiz kavrulmuş ve yeneceğiz."
